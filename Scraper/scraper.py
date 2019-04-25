@@ -8,13 +8,6 @@ import sys
 import re
 from bs4 import BeautifulSoup
 
-def format(mera):
-	mera=mera.split()
-	for char in mera:
-		if mera == ' ':
-			del mera
-	return ''.join(mera)
-
 # Incijalizacija selenium kontrole pretrazivaca
 browser = webdriver.Firefox()
 
@@ -61,8 +54,9 @@ for namirnica in namirnice:
 						minprodavnica = prodavnica
 						mincena = cena
 				prodavnica+= 1
-			baza.write(ime.lower() + "," + mera.lower() + "," + str(mincena).lower() + "," + prodavnice[minprodavnica].lower() + "\r\n")
+			baza.write(ime.lower() + "," + mera.lower().replace(" ",",") + "," + str(mincena).lower() + "," + prodavnice[minprodavnica].lower() + "\r\n")
 		stranica+= 1
 
 baza.close()
 browser.quit()
+sys.exit(0)
