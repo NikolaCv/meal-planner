@@ -44,7 +44,6 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 	entry = readdir(root);
 	entry = readdir(root);
 
-	DIR *meal_dir;
 	recipe temp;
 	std::fstream file;
 	std::string data = products[1].name;
