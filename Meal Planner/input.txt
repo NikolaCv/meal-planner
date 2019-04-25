@@ -1,0 +1,4 @@
+ime,50,mera,500.5,prodavnica
+ime,70,mera,50,prod
+ime,80,mera,48.6,proda
+ime,100,mera,50.5,prodavnica
