@@ -6,8 +6,14 @@
 #include "dirent.h"
 #include <direct.h>
 #include <algorithm>
-
-bool smaller(const recipe& a, const recipe& b)
+/*
+bool smaller_p(const product& a, const product& b)
+{
+	if (a.price_per_meal < b.price_per_meal) return true;
+	return false;
+}
+*/
+bool smaller_r(const recipe& a, const recipe& b)
 {
 	if (a.price_per_meal < b.price_per_meal) return true;
 	return false;
@@ -37,7 +43,7 @@ void meal_planner::get_products(std::string file_name)
 		products.push_back(temp);
 	}
 
-	std::sort(products.begin(), products.end(), smaller);
+	//std::sort(products.begin(), products.end(), smaller_p);
 	file.close();
 }
 
@@ -97,7 +103,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		_chdir("..");
 	}
 
-	std::sort(recipes.begin(), recipes.end(), smaller);
+	std::sort(recipes.begin(), recipes.end(), smaller_r);
 }
 
 void meal_planner::print_products()
