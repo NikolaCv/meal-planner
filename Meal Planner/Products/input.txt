@@ -1,4 +1,4 @@
-mleko,100,ml,20,maxi
+mleko 3.5,100,ml,20,maxi
 pasulj,1000,g,500,maxi
 rebra,1000,g,800,maxi
-k,1000,g,60,maxi
+krompir,1000,g,60,maxi
