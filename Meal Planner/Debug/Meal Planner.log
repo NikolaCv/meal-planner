@@ -1,5 +1,0 @@
-﻿  main.cpp
-  meal_planner.cpp
-c:\users\nikola\documents\github\meal planner\meal planner\meal_planner.cpp(37): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
-  Meal Planner.vcxproj -> C:\Users\Nikola\Documents\GitHub\Meal Planner\Debug\Meal Planner.exe
