@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include "meal_planner.h"
 
-
-
-
 int main()
 {
 	meal_planner meals;
