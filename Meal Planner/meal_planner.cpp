@@ -34,8 +34,6 @@ void meal_planner::get_products(std::string file_name)
 	file.close();
 }
 
-
-
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
 {
 	DIR *root = opendir(dir_name.c_str());
