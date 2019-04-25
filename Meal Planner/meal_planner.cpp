@@ -7,6 +7,12 @@
 #include <direct.h>
 #include <algorithm>
 
+bool smaller(const recipe& a, const recipe& b)
+{
+	if (a.price_per_meal < b.price_per_meal) return true;
+	return false;
+}
+
 void meal_planner::get_products(std::string file_name)
 {
 	std::fstream file;
@@ -31,6 +37,7 @@ void meal_planner::get_products(std::string file_name)
 		products.push_back(temp);
 	}
 
+	std::sort(products.begin(), products.end(), smaller);
 	file.close();
 }
 
@@ -59,10 +66,10 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		temp.num_of_meals = std::stof(data);
 		temp.price = 0;
 
-		while (std::getline(file, data, ','))			//mleko,100			--- bez merne jedinice za sada
+		while (std::getline(file, data, ','))			//mleko,100			--- bez merne jedinice za sada 
 		{
 			std::vector<product>::iterator it;
-			it = std::find_if(products.begin(), products.end(), [&p_name = data](const product& p) -> bool { return p.name == p_name; });
+			it = std::find_if(products.begin(), products.end(), [&p_name = data](const product& p) -> bool { return strstr(p.name.c_str(), p_name.c_str()); });
 
 			std::getline(file, data);
 
@@ -83,12 +90,14 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 			}
 		}
 
+		temp.price_per_meal = temp.price / temp.num_of_meals;
 		recipes.push_back(temp);
 
 		file.close();
 		_chdir("..");
 	}
-	
+
+	std::sort(recipes.begin(), recipes.end(), smaller);
 }
 
 void meal_planner::print_products()
@@ -102,7 +111,12 @@ void meal_planner::print_products()
 void meal_planner::print_recipes()
 {
 	std::cout << "Recipes" << std::endl;
-	std::cout << "Name" << "\t" << "Price" << "\t" << "Meals" << std::endl;
+	std::cout << "Name" << "\t" << "Price" << "\t" << "Meals" << "\t" << "Price per meal" << std::endl;
 	for (int i = 0; i < recipes.size(); ++i)
-		std::cout << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << std::endl;
+		std::cout << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << "\t" << recipes[i].price_per_meal << std::endl;
+}
+
+void meal_planner::eat_cheap(int days, int people)
+{
+	
 }
