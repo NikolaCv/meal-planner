@@ -44,7 +44,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 
 	recipe temp;
 	std::fstream file;
-	std::string data = products[1].name;
+	std::string data;
 
 	_chdir(dir_name.c_str());
 
@@ -93,12 +93,16 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 
 void meal_planner::print_products()
 {
+	std::cout << "Products" << std::endl;
+	std::cout << "Name" << "\t" << "Amount" << "\t" << "Unit" << "\t" << "Price" << "\t" << "Shop" << std::endl;
 	for (int i = 0; i < products.size(); ++i)
 		std::cout << products[i].name << "\t" << products[i].amount << "\t" << products[i].unit << "\t" << products[i].price << "\t" << products[i].shop << std::endl;
 }
 
 void meal_planner::print_recipes()
 {
+	std::cout << "Recipes" << std::endl;
+	std::cout << "Name" << "\t" << "Price" << "\t" << "Meals" << std::endl;
 	for (int i = 0; i < recipes.size(); ++i)
 		std::cout << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << std::endl;
 }
