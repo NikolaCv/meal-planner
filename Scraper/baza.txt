@@ -1,0 +1,1619 @@
+adez mleko od badema,800ml,259,idea
+alpro mleko od badema,1l,289,idea
+joya mleko od badema,1l,264,tempo
+sojino mleko alpro kokos badem,1l,304,idea
+alpro mleko od lesnika,1l,318,univerexport
+adez mleko od pirinca,800ml,244,idea
+alpro mleko kokos sa pirincem,1l,289,idea
+joya mleko od pirinca i kokosa,1l,289,tempo
+mleko od pirinca joya,1l,264,roda
+scotti napitak od pirinca,1l,199,roda
+scotti pirinac kakao,1l,214,roda
+sojino mleko alpro kokos cokolada,1l,309,idea
+adez mleko od soje,800ml,209,idea
+joya ovas chia,1l,264,tempo
+ovseno mleko joya,1l,264,roda
+scotti ovseno mleko,1l,214,roda
+sojino mleko alpro bez secera,1l,261,univerexport
+sojino mleko alpro cokolada ,1l,303,univerexport
+sojino mleko alpro natur + kalcijum ,1l,258,univerexport
+sojino mleko alpro vanila ,1l,303,univerexport
+sojino mleko joya cokolada,1l,224,dis
+sojino mleko joya sa kalcijumom,1l,204,dis
+sojino mleko joya vanila,1l,224,dis
+sojino mleko plantino classic,1l,217,roda
+sojino mleko plantino vanila,1l,257,roda
+brasno danubius heljdin mesani hleb,1kg,176,roda
+brasno danubius meko t-400,1kg,52,maxi
+brasno danubius ostro t-400,1kg,64,tempo
+brasno danubius t-500,1kg,46,dis
+brasno danubius za integralni hleb,900g,53,univerexport
+brasno danubius za razani hleb,900g,64,tempo
+brasno fidelinka meko t-400,1kg,45,dis
+brasno fidelinka meko t-400,5kg,346,dis
+brasno fidelinka ostro t-400,1kg,63,univerexport
+brasno fidelinka t-500,1kg,48,dis
+brasno fidelinka t-500,5kg,324,dis
+brasno kikindski mlin t-400,1kg,59,roda
+brasno kikindski mlin t-500,1kg,56,roda
+brasno kikindski mlin t-500,5kg,284,roda
+brasno sentella t-400 glatko,1kg,49,gomex
+brasno sentella t-400 glatko,5kg,316,univerexport
+brasno sentella t-400 ostro,1kg,59,univerexport
+brasno sentella t-500,1kg,49,gomex
+brasno sentella t-500,5kg,299,gomex
+brasno robna marka t-500,1kg,39,tempo
+brasno robna marka t-400,1kg,44,idea
+kukuruzno brasno corn,500g,84,dis
+kukuruzno brasno stari mlinar,500g,52,roda
+griz c psenicni deciji c,200g,49,tempo
+griz c psenicni deciji c,400g,90,dis
+griz corn kukuruzni,500g,64,univerexport
+griz flory psenicni,200g,43,dis
+griz flory psenicni,400g,84,dis
+griz stari mlinar kukuruzni,500g,64,roda
+palenta corn,500g,114,roda
+palenta divella,500g,138,univerexport
+palenta florida bel abc,500g,86,roda
+proja dr.oetker,350g,99,tempo
+brasno vega kukuruzno integralno ,1kg,83,univerexport
+brasno vega psenicno integralno ,1kg,69,gomex
+dodatak aleva govedji gulas,50g,49,univerexport
+dodatak aleva lovacke snicle,48g,66,tempo
+dodatak aleva riblji paprikas,90g,66,tempo
+dodatak aleva rostilj,60g,54,univerexport
+dodatak aleva sos za spagete,85g,69,gomex
+dodatak aleva za cufte,100g,59,gomex
+dodatak aleva za pasulj,84g,59,gomex
+dodatak aleva za piletinu sa sampinjonima,47g,71,tempo
+dodatak aleva za punjenu papriku,60g,59,gomex
+dodatak aleva za riblju corbu,90g,59,idea
+dodatak aleva za sarmu,60g,54,tempo
+dodatak aleva za spagete bolognese,59g,72,tempo
+dodatak aleva za spagete milaneze,50g,72,tempo
+dodatak c makarone lazanja,34g,61,dis
+dodatak c piletina sa 4 sira,32g,61,dis
+dodatak c piletina sa sampinjonima,48g,61,dis
+dodatak c spageti bolonjeze,55g,61,dis
+dodatak c spageti carbonara,34g,61,dis
+dodatak c spageti milanese,50g,61,dis
+dodatak c zapecena testenina sunka sir,39g,61,dis
+dodatak kotanyi pecenje na zaru,40g,67,univerexport
+dodatak kotanyi za piletinu,40g,67,univerexport
+dodatak kotanyi za ribu,26g,67,univerexport
+dodatak kotanyi za svinjsko pecenje,30g,67,univerexport
+konzervans c,5g,7,univerexport
+konzervans c,6kom,42,univerexport
+limuntus aleva,10g,6,tempo
+limuntus c ,10g,8,univerexport
+pikant fix dr.oetker kiseli,100g,71,roda
+vinobran aleva,10g,11,univerexport
+carnex boranija sa svinjskim mesom,400g,182,roda
+carnex domaca sarma,400g,224,maxi
+carnex fasirana snicla sa boranijom,400g,155,roda
+carnex govedji gulas,400g,318,roda
+carnex grasak sa svinjskim mesom,400g,182,roda
+carnex kinesko jelo sa piletinom,350g,254,roda
+carnex meksicko jelo sa piletinom,350g,252,maxi
+carnex mesni preliv za spagete,400g,227,idea
+carnex pasulj sa fasiranom sniclom,400g,155,roda
+carnex pasulj sa kobasicom,400g,155,roda
+carnex pasulj sa slaninom,400g,155,roda
+carnex punjena paprika,400g,224,maxi
+carnex smazalice puzici bolonjeze,400g,195,roda
+carnex spageti na bolonjski nacin,400g,179,roda
+neoplanta prego cufte u paradajz sosu,400g,239,roda
+neoplanta prego govedji gulas,400g,369,roda
+neoplanta prego grasak sa fasiranom sniclom,400g,169,gomex
+neoplanta prego pasulj sa dimljenom slaninom,400g,169,gomex
+neoplanta prego pasulj sa fasiranom sniclom,400g,168,dis
+neoplanta prego pasulj sa kobasicom,400g,189,dis
+neoplanta prego posni pasulj,400g,139,gomex
+krompir pire abc,120g,61,roda
+krompir pire abc120g,360g,159,roda
+krompir pire yumis,120g,70,roda
+minut krompir pire marbo,120g,66,tempo
+minut krompir pire marbo120g,360g,205,dis
+jaja klasa a,10kom,99,gomex
+jaja klasa b,10kom,99,idea
+jaja klasa s,10kom,99,gomex
+kecap dijamant blagi pvc,1kg,174,univerexport
+kecap dijamant blagi pvc,500g,94,maxi
+kecap dijamant ljuti pvc,500g,93,roda
+kecap dijamant pizza,1kg,174,univerexport
+kecap dijamant pizza,500g,94,maxi
+kecap gurman plus blagi 1,02kg,1.02kg,154,roda
+kecap gurman plus blagi 1,5kg,1.5kg,206,roda
+kecap gurman plus blagi,450g,89,tempo
+kecap gurman plus blagi,750g,136,univerexport
+kecap gurman plus ljuti 1,02kg,1.02kg,154,roda
+kecap gurman plus ljuti 1,5kg,1.5kg,215,roda
+kecap gurman plus ljuti,450g,89,tempo
+kecap gurman plus ljuti,750g,144,roda
+kecap gurman plus pizza 1,02kg,1.02kg,154,roda
+kecap gurman plus pizza 1,5kg,1.5kg,215,roda
+kecap gurman plus pizza,450g,89,tempo
+kecap gurman plus pizza,750g,144,roda
+kecap heinz,1kg,199,tempo
+kecap heinz,342g,99,idea
+kecap polimark blagi boca,1kg,144,dis
+kecap polimark blagi dojpak,300g,59,univerexport
+kecap polimark blagi kesica,100g,22,tempo
+kecap polimark blagi kesica,200g,39,maxi
+kecap polimark blagi pvc,500g,93,roda
+kecap polimark blagi tuba,200g,70,roda
+kecap polimark ljuti boca,1kg,183,roda
+kecap polimark ljuti kesica,100g,22,tempo
+kecap polimark ljuti pvc,500g,89,dis
+kecap polimark ljuti tuba,200g,70,roda
+kecap polimark pizza boca,1kg,149,gomex
+kecap polimark pizza kesica,100g,21,dis
+kecap polimark pizza pvc,500g,89,dis
+kecap polimark pizza tuba,200g,70,roda
+kecap tomatello blagi,500g,74,univerexport
+kecap tomatello ljuti,500g,74,univerexport
+kecap tomatello ljuti kesica,100g,19,univerexport
+kecap tomatello pizza,500g,74,univerexport
+kecap vital blagi,450g,79,dis
+kecap vital blagi,950g,149,dis
+kecap vital ljuti,450g,89,dis
+kecap vital ljuti,950g,159,dis
+kecap vital pizza,450g,84,dis
+kecap vital pizza,950g,154,dis
+paradajz seckani heinz,400g,145,maxi
+paradajz sok cirio pasirani,500g,119,tempo
+paradajz sok gurman blagi,500g,44,dis
+paradajz sok gurman bosiljak i origano,500g,49,dis
+paradajz sok gurman pasirani,500g,44,roda
+paradajz sok heinz,500g,136,maxi
+paradajz sok polimark classic,300g,54,univerexport
+paradajz sok polimark mediteraneo,300g,54,univerexport
+paradajz sok tomatello 0,5l,0.5l,50,dis
+paradajz sok tomatello,1l,99,univerexport
+paradajz sok tomatello origano & bosiljak 0.5l,0.5l,64,dis
+paradajz sok tomatello za gulas i paprikas 0.5l,0.5l,64,dis
+paradajz sok tomatino 1,03kg,1.03kg,89,gomex
+paradajz sok tomatino,500ml,49,maxi
+paradajz sok (robna marka),500ml,39,idea
+cubetti polimark,400g,124,univerexport
+divella pelati,400g,106,roda
+divella pelati,800g,179,idea
+pelati cirio,400g,119,tempo
+pelati polimark,400g,120,dis
+suvi centroproizvod,10g,15,maxi
+suvi dr.oetker,7g,27,tempo
+svezi lesaffre alpha,42g,22,roda
+svezi lesaffre fermin,500g,84,dis
+svezi linco,42g,22,univerexport
+svezi vrenje,500g,80,dis
+svezi vrenje minjon,40g,19,dis
+majonez dijamant chilli,95ml,39,tempo
+majonez dijamant classic,1kg,259,roda
+majonez dijamant classic,470ml,119,idea
+majonez dijamant classic tegla,630g,226,roda
+majonez dijamant delikates dojpak,285ml,89,idea
+majonez dijamant delikates kesica,95ml,33,roda
+majonez dijamant kantica,3l,799,tempo
+majonez dijamant kesa delikates,190ml,62,roda
+majonez dijamant light,1l,215,dis
+majonez dijamant light,285ml,64,univerexport
+majonez dijamant light,3l,549,tempo
+majonez dijamant light,95ml,24,roda
+majonez dijamant slaninica,100ml,39,tempo
+majonez dijamant slaninica,300ml,112,maxi
+majonez polimark delikates,300ml,89,dis
+majonez polimark delikates,640ml,259,tempo
+majonez polimark delikates boca,500ml,144,tempo
+majonez polimark delikates kesa,100ml,36,dis
+majonez polimark delikates kesa,200ml,59,gomex
+majonez polimark delikates kesa,50ml,21,dis
+majonez polimark junior mayo,310ml,128,tempo
+majonez polimark laki dojpak,300ml,64,univerexport
+majonez polimark ukus krastavca,100ml,42,univerexport
+majonez thomy delight,220g,89,univerexport
+majonez thomy kesica,160g,81,roda
+majonez thomy kesica,20g,15,dis
+majonez thomy kesica,280g,109,gomex
+majonez thomy kesica,85g,47,dis
+majonez thomy tegla,650ml,350,dis
+majonez thomy tuba,165g,227,roda
+majonez thomy tuba,85g,149,dis
+majonez thomy xxl doypack,730g,299,roda
+majonez vital mayovita delikates,270g,79,dis
+majonez vital mayovita delikates,900g,249,dis
+majonez vital mayovita delikates kesa,180g,49,dis
+majonez vital mayovita delikates kesa,90g,29,dis
+majonez vital mayovita light kantica,900g,169,dis
+majonez vital mayovita light kesa,180g,35,dis
+majonez vital mayovita light kesa,90g,19,dis
+senf aleva delikates,100g,34,roda
+senf aleva delikates,1kg,217,roda
+senf aleva delikates,350g,101,roda
+senf c delikates,1kg,169,dis
+senf c delikates,50g,17,roda
+senf c delikates casa,100g,27,tempo
+senf c doypack,280g,69,univerexport
+senf c pikant casa,100g,27,tempo
+senf c xl,380g,86,roda
+senf polimark fini casa,100g,26,roda
+senf polimark fini dojpak,300g,59,univerexport
+senf polimark kesica,50g,16,univerexport
+senf polimark ljuti casa,100g,25,roda
+senf thomy dojpak,280g,93,univerexport
+ren aleva,200g,101,roda
+ren aleva,350g,165,roda
+ren c ribani,200g,99,gomex
+ren c ribani,350g,173,dis
+ren dijamant ribani,190g,56,roda
+preliv dijamant cezar,100g,39,dis
+preliv dijamant cezar,300g,99,univerexport
+preliv dijamant sa renom,100g,41,univerexport
+preliv dijamant sa renom dojpak,300g,99,univerexport
+preliv dijamant za salatu mexicana,100g,37,dis
+preliv dijamant za salatu mexicana,300g,99,univerexport
+preliv polimark kenf,300g,82,tempo
+preliv polimark kenf,45g,18,dis
+preliv thomy chilli,80g,51,dis
+preliv thomy garlic,80g,51,dis
+sos barilla arrabbiata,400g,249,tempo
+sos barilla bolognese,400g,263,univerexport
+sos barilla napolitana,400g,241,roda
+sos barilla pesto genovese,190g,383,dis
+sos barilla pesto rosso,200g,194,roda
+sos chilito opako ljuti,250g,95,dis
+sos chilito slatko ljuti,250g,99,idea
+sos heinz soja ,150ml,219,tempo
+sos heinz worcestershire ,150ml,216,tempo
+sos pemy chili,250ml,109,roda
+sos pemy kari,250ml,109,univerexport
+sos pemy soja,280ml,211,tempo
+sos pemy sweet chili,285ml,144,roda
+sos pemy worcestershire,250ml,139,univerexport
+tartar sos dijamant dojpak,300g,99,maxi
+tartar sos dijamant kesa,100g,39,dis
+tartar sos polimark dojpak,300ml,83,univerexport
+tartar sos thomy,80g,51,dis
+ren dijamant ribani,350g,154,roda
+margarin dijamant classic,250g,44,maxi
+margarin dijamant classic,500g,89,maxi
+margarin dijamant dijavit,250g,42,roda
+margarin dijamant dobro jutro,250g,80,maxi
+margarin dijamant dobro jutro,500g,129,gomex
+margarin dijamant dobro jutro light,250g,57,univerexport
+margarin dijamant dobro jutro light,500g,79,dis
+margarin dijamant dobro jutro sa maslacem,250g,96,univerexport
+margarin dijamant expert za kolace,250g,39,univerexport
+margarin dijamant junior,250g,79,maxi
+margarin dijamant omegol,250g,89,tempo
+margarin dijamant s maslacem ,250g,74,maxi
+margarin dijamant sa vanilom,250g,54,univerexport
+margarin dobro jutro dijet,250g,59,roda
+margarin dobro jutro dijet,500g,99,roda
+margarin minerva grcki jogurt,250g,159,tempo
+margarin minerva maslinovo ulje,250g,217,tempo
+margarin polimark active,250g,63,roda
+margarin polimark active,400g,103,roda
+margarin polimark classic,250g,94,tempo
+margarin polimark classic,400g,120,roda
+margarin polimark light,250g,74,dis
+margarin polimark light,400g,85,roda
+margarin polimark stoni,250g,52,tempo
+margarin vital prijatno krem softi,250g,59,univerexport
+margarin vital prijatno krem softi,500g,112,roda
+margarin vital prijatno laki,255g,49,univerexport
+margarin vital prijatno laki,512g,91,dis
+margarin vital prijatno mlecni,250g,68,univerexport
+margarin vital prijatno mlecni,500g,144,tempo
+margarin vital slatka pavlaka,250g,52,dis
+margarin vital stoni,250g,43,tempo
+margarin (robna marka),250g,43,lidl
+hummus ribella ajvar,200g,159,maxi
+hummus ribella cvekla,200g,174,roda
+hummus ribella natural,200g,159,gomex
+hummus ribella onion sweet salad,200g,159,maxi
+hummus ribella pikant,200g,159,gomex
+hummus ribella semenke bundeve,200g,129,idea
+hummus ribella sitake,200g,159,maxi
+hummus ribella urnebes,200g,159,maxi
+med bagrem maja med,380g,439,idea
+med honey bagrem tegla,500g,669,idea
+med krnjevac bagremov,250g,277,tempo
+med krnjevac bagremov,720g,539,tempo
+med aza lipov tegla,500g,569,idea
+med krnjevac lipov,250g,189,tempo
+med krnjevac lipov,720g,570,tempo
+med lipa maja med,700g,579,idea
+med honey livadski tegla,1kg,749,maxi
+med honey livadski tegla,500g,489,idea
+med krnjevac livadski,250g,219,tempo
+med krnjevac livadski,720g,439,tempo
+med livadski maja med,380g,359,idea
+med cvetni maja med,700g,569,idea
+med happy honey djumbir,250g,589,univerexport
+med happy honey kakao,250g,589,univerexport
+med happy honey malina,250g,589,univerexport
+med krnjevac cvetni,250g,209,tempo
+med krnjevac cvetni,720g,514,tempo
+zacin aleva kulinat,1kg,284,dis
+zacin aleva kulinat,250g,69,idea
+zacin aleva kulinat,500g,139,dis
+zacin aleva kulinat classic,125g,44,roda
+zacin aleva kulinat natur,250g,119,dis
+zacin aleva kulinat natur,500g,222,tempo
+zacin bag zacin,250g,79,dis
+zacin bio nacin,125g,38,roda
+zacin bio nacin,1kg,225,roda
+zacin bio nacin,250g,54,univerexport
+zacin bio nacin,500g,117,dis
+zacin c,125g,47,dis
+zacin c,1kg,321,dis
+zacin c,250g,72,maxi
+zacin c,350g,123,dis
+zacin c,500g,139,tempo
+zacin c,700g,235,dis
+zacin c garden,150g,74,dis
+zacin c garden,300g,144,univerexport
+zacin c sa ukusom piletine,180g,74,dis
+zacin podravka vegeta,250g,94,univerexport
+zacin podravka vegeta,400g,237,dis
+zacin podravka vegeta kesica,400g,159,roda
+zacin podravka vegeta kesica,950g,359,dis
+zacin podravka vegeta natur,150g,112,dis
+zacin podravka vegeta natur,75g,79,tempo
+zacin yumis eko,1kg,230,roda
+zacin yumis eko,250g,39,idea
+zacin yumis eko,500g,125,univerexport
+zacin dodatak jelima sa povrcem (robna marka),250g,50,dis
+zacin dodatak jelima (robna marka),250g,75,dis
+zacin dodatak jelima sa povrcem (robna marka),250g,133,dis
+puding aleva banana vanilla,40g,26,tempo
+puding aleva butter vanilla,40g,26,tempo
+puding aleva cokolada,50g,26,gomex
+puding aleva cokolada narandza,50g,26,tempo
+puding aleva creme brulle,40g,26,tempo
+puding aleva jagoda,40g,23,univerexport
+puding aleva malina,40g,21,tempo
+puding aleva vanila,40g,21,tempo
+puding c cokolada,49g,22,roda
+puding c jagoda,40g,22,roda
+puding c malina,40g,22,roda
+puding c slatka pavlaka,40g,24,dis
+puding c vanila40g,120g,69,dis
+puding c vanila,40g,19,roda
+puding dr.oetker cokolada47g,141g,94,tempo
+puding dr.oetker cokolada,47g,26,tempo
+puding dr.oetker jagoda,38g,26,tempo
+puding dr.oetker slatka pavlaka,38g,26,tempo
+puding dr.oetker vanila 3+1 gratis,152g,66,tempo
+puding dr.oetker vanila,38g,23,tempo
+puding yumis jagoda,40g,15,dis
+puding yumis vanila,40g,0,gomex
+slag c fantastico,500g,179,tempo
+slag c sa vodom 120g,120g,119,tempo
+slag c sa vodom,40g,34,idea
+slag c topping,35g,36,roda
+slag krem aleva slag pena,1kg,679,univerexport
+slag krem aleva vanila,65g,44,tempo
+slag krem c beli,500g,169,idea
+slag krem c cokolada,60g,50,roda
+slag krem c vanila,58g,49,tempo
+slag krem frikom,110g,91,roda
+slag pena aleva,40g,32,univerexport
+slag pena dr.oetker,40g,64,tempo
+slag cesibon topping,250ml,161,roda
+slag hole,250g,149,roda
+slag hulala,250g,168,tempo
+slag meggle creme patisserie,250g,167,tempo
+sutlijas dr.oetker sa cimetom,52g,64,tempo
+sutlijas dr.oetker sa vanilom,52g,64,tempo
+secer crvenka,1kg,59,idea
+secer sunoko beli,10kg,612,dis
+secer sunoko beli,5kg,306,dis
+secer sunoko beli doypack,750g,67,roda
+secer sunoko kocka,1kg,125,dis
+secer sunoko kristal beli,1kg,57,dis
+secer (robna marka),1kg,59,maxi
+secer u prahu c,250g,54,univerexport
+secer u prahu c,500g,98,dis
+secer u prahu sunoko,250g,43,roda
+secer u prahu sunoko,500g,84,roda
+secer u prahu robna marka,250g,10000000,idea
+secer u prahu robna marka,500g,10000000,idea
+zuti secer sunoko doypack,500g,99,tempo
+alkoholno sirce aroma,1l,64,gomex
+alkoholno sirce bip,1l,79,roda
+alkoholno sirce dijamant,1l,59,dis
+alkoholno sirce nectar,1l,64,roda
+alkoholno sirce 9% (robna marka),1l,54,tempo
+jabukovo sirce dijamant,1l,119,roda
+jabukovo sirce nectar,500ml,59,roda
+jabukovo sirce zdravo,500ml,94,idea
+limunov sok limmi,200ml,119,idea
+limunov sok limmi,500ml,299,tempo
+vinsko sirce dijamant,1l,117,dis
+vinsko sirce ponti,250ml,269,idea
+vinsko sirce ponti,500ml,399,tempo
+kuhinjska so so produkt,120g,31,univerexport
+kuhinjska so so produkt,1kg,44,gomex
+kuhinjska so so produkt,250g,53,roda
+kuhinjska so tuzlanska,10kg,337,dis
+kuhinjska so tuzlanska,1kg,41,tempo
+kuhinjska so tuzlanska,5kg,171,dis
+kuhinjska so robna marka,1kg,37,maxi
+morska so kristal so krupna,500g,57,tempo
+morska so kristal so sitna,500g,62,tempo
+morska so so produkt,1kg,59,gomex
+morska so solana pag,1kg,62,dis
+morska so robna marka,1kg,34,maxi
+nudle indomie govedina,75g,40,roda
+nudle indomie piletina,5kom,99,idea
+nudle indomie piletina,70g,40,roda
+nudle indomie povrce,5kom,99,idea
+nudle indomie povrce,75g,44,dis
+supa aleva abc bistra kokosija,50g,45,roda
+supa aleva domaca govedja bistra,45g,35,maxi
+supa aleva domaca kokosija bistra,45g,35,maxi
+supa aleva govedja bistra,60g,45,roda
+supa aleva kokosija bistra,45g,45,roda
+supa aleva kokosija sa mesom,45g,54,gomex
+supa aleva krem pecurke,51g,64,idea
+supa aleva posna,50g,48,roda
+supa c carska sa knedlama,49g,61,dis
+supa c govedja bistra,58g,41,tempo
+supa c kokosja bistra,58g,36,idea
+supa c kokosja bistra njupa,45g,39,univerexport
+supa c krem pileca,54g,66,maxi
+supa c posna,48g,54,dis
+supa maggi alfabet,60g,36,dis
+supa maggi govedja testenina,40g,25,dis
+supa maggi griz knedle,50g,69,dis
+supa maggi pileca,40g,25,dis
+supa maggi pileca sa rezancima,50g,36,dis
+supa maggi pileca u kocki,10g,12,gomex
+supa maggi pileca u kocki,60g,56,dis
+supa maggi pileca u kocki,80g,56,dis
+supa maggi posna,52g,60,roda
+supa podravka alpska,67g,79,roda
+supa podravka govedja sa testeninom,65g,47,maxi
+supa podravka govedja sa zvezdama,52g,25,roda
+supa podravka jetrena i griz knedle,52g,89,tempo
+supa podravka kocka kokosja,10g,10,roda
+supa podravka kocka povrcna,10g,10,tempo
+supa podravka kokosja sa testeninom,62g,35,maxi
+supa podravka kokosja testenine/povrce,52g,25,roda
+supa podravka povrce sa zvezdicama,52g,25,roda
+supa podravka svatovska velike knedle,58g,71,dis
+supa quik brokoli aleva,14g,40,dis
+supa quik od paradajza aleva,18g,27,dis
+supa quik od povrca aleva,10g,27,dis
+supa quik sa pecurkama aleva,17g,27,dis
+supa takovo u kocki govedja,44g,54,dis
+supa takovo u kocki govedja,88g,89,dis
+supa takovo u kocki kokosja,44g,54,dis
+supa takovo u kocki kokosja,88g,89,dis
+supa yumis govedja bistra,65g,29,roda
+supa yumis kokosja,65g,29,roda
+supa yumis kokosja sa mesom,45g,49,idea
+supa yumis krem od pecuraka,53g,47,roda
+supa yumis krem pileca,54g,31,tempo
+supa yumis od paradajza,70g,45,tempo
+supa yumis posna,52g,32,roda
+supa yumis skolska,65g,31,tempo
+supa yumis zvezdana,65g,31,tempo
+corba aleva paradajz domaca,80g,54,idea
+aroma dr.oetker rum,38ml,59,univerexport
+aroma dr.oetker vanila,38ml,59,univerexport
+cimet aleva cimet mleveni,5g,11,idea
+cimet kotanyi staklo,45g,154,maxi
+fil za tortu dr.oetker cokolada,160g,157,roda
+fil za tortu dr.oetker lesnik,140g,144,tempo
+fil za tortu dr.oetker vanila,140g,142,tempo
+kakao prah aleva,80g,117,maxi
+kakao prah aleva cokoleva,100g,123,dis
+kakao prah centroproizvod,80g,119,dis
+kakao prah dr.oetker,20g,35,dis
+kakao prah dr.oetker,80g,148,univerexport
+mak abc mleveni,200g,221,dis
+kakao kore dr.oetker,440g,199,dis
+krem kore dr.oetker,440g,199,dis
+oblande centroproizvod,210g,72,tempo
+rozen kore dr.oetker,430g,199,dis
+badem libero mleveni,200g,382,tempo
+lesnik libero mleveni,200g,369,tempo
+orah libero mleveni,200g,389,tempo
+prasak za pecivo aleva (5+1 gratis),72g,39,univerexport
+prasak za pecivo centroproizvod (6 komada),72g,46,dis
+prasak za pecivo centroproizvod,12g,8,dis
+prasak za pecivo dr.oetker 6+1gratis,70g,59,dis
+prasak za pecivo dr.oetker,12g,12,dis
+preliv dr.oetker za tortu providni,12g,62,univerexport
+preliv nesquik cokoladni,403g,358,roda
+preliv twister cokoladni,350g,212,roda
+preliv twister jagoda,350g,209,roda
+preliv twister karamela,350g,209,roda
+glazura stark menaz,200g,169,univerexport
+princes krofne smesa dr.oetker,390g,199,tempo
+smesa za kolac dr.oetker lava,215g,269,tempo
+smesa za kolac dr.oetker mafins,360g,385,roda
+smesa za kolac dr.oetker mafins coko,360g,299,tempo
+vanilice dr.oetker,350g,89,dis
+palacinke dr.oetker,270g,99,tempo
+cvrstin c,150g,60,roda
+dzemfix dr.oetker 2:1 extra,25g,85,roda
+dzemfix dr.oetker 3:1,25g,98,roda
+dzemfix dr.oetker sljive,25g,91,roda
+gustin dr.oetker,200g,118,roda
+ucvrscivac za slag dr.oetker kremfix,10g,29,roda
+zelatin dr.oetker mleveni beli,10g,49,roda
+vanilin secer aleva,10g,7,univerexport
+vanilin secer aleva 5+1 gratis,60g,39,univerexport
+vanilin secer c,10g,8,dis
+vanilin secer c10g,60g,47,tempo
+vanilin secer dr.oetker,10g,12,dis
+vanilin secer dr.oetker 6+1gratis10g,60g,59,dis
+vanilin secer yumis,10g,10,univerexport
+barilla farfalle n.65,500g,171,dis
+barilla fusilli n.98,500g,129,roda
+barilla pene rigate n.73,500g,123,dis
+barilla penne tricolore,500g,279,tempo
+barilla pipe rigate,500g,147,dis
+barilla tortiglioni n.83,500g,129,roda
+del castello elicoidali,500g,109,idea
+del castello lumaconi rigati,500g,109,idea
+del castello penne rigate,500g,89,maxi
+del castello spirali,500g,89,maxi
+del castello tagliatelle,500g,149,idea
+divella elicodali,500g,135,roda
+divella filini n.79,500g,135,roda
+divella fusili,500g,114,univerexport
+divella gnocchi,500g,135,roda
+divella gomiti cannerozzotti 24,500g,124,maxi
+divella penne ziti rigate,500g,124,maxi
+makaroni danubius fusilli integrale,400g,59,tempo
+makaroni danubius gnocchi ,400g,68,roda
+makaroni danubius grkljancic,400g,49,idea
+makaroni danubius makarona secena,400g,46,dis
+makaroni danubius mini fusillini,400g,74,idea
+makaroni danubius mini makarone,400g,48,roda
+makaroni danubius mini radijator,400g,48,roda
+makaroni danubius penne integrale,400g,59,tempo
+makaroni danubius penne rigate,400g,54,tempo
+makaroni danubius puzic,400g,49,idea
+makaroni danubius radijator,400g,45,tempo
+makaroni danubius spirala,400g,44,dis
+makaroni durum glatki makaron,500g,72,tempo
+makaroni durum kosi makaron,500g,59,univerexport
+makaroni durum orhideja,500g,59,univerexport
+makaroni durum spirala,500g,59,univerexport
+makaroni kikindski mlin seceni,400g,39,univerexport
+makaroni kikindski mlin spirala,400g,39,univerexport
+makaroni panona kosi makaron,400g,42,tempo
+makaroni panona orhideja,400g,42,tempo
+makaroni panona spirala,400g,42,tempo
+makaroni sentella secena,350g,39,gomex
+makaroni zitko durum seceni,400g,52,tempo
+makaroni zitko durum spirala,400g,49,univerexport
+rana gnocchi,500g,247,univerexport
+rezanci danubius cipkasti,500g,64,dis
+rezanci danubius fida,400g,49,idea
+rezanci durum cipkasti rezanac,500g,69,maxi
+rezanci kikindski mlin fida,400g,46,roda
+rezanci panona cipkasti rezanac,400g,42,tempo
+barilla bavette n.13,500g,159,tempo
+barilla spaghetti n.3,500g,147,dis
+barilla spaghetti n.5,1kg,284,dis
+barilla spaghetti n.5,500g,99,gomex
+barilla spaghetti n.7,500g,147,dis
+barilla tagliatelle,500g,134,roda
+borzal fida,200g,76,dis
+borzal flekice,200g,77,dis
+borzal mala kocka,200g,80,roda
+borzal traka nareckana,200g,76,dis
+borzal zob kocka,200g,80,roda
+del castello spaghetti n.3,500g,99,idea
+del castello spaghetti n.5,500g,89,maxi
+divella ristorante spaghetti,500g,124,maxi
+divella tagliatelle,500g,188,univerexport
+divella vermicelini spaghetti,500g,114,univerexport
+rana tagliatelle giovanni,250g,247,univerexport
+spagete danubius,500g,76,tempo
+spagete danubius integrale,500g,77,tempo
+spagete kikindski mlin,500g,56,univerexport
+spagete panona,500g,42,tempo
+barilla lasagne,500g,299,dis
+divella lasagne ,500g,256,univerexport
+kore za lazanje durum,500g,189,gomex
+rana tortellini sa sirom,250g,308,univerexport
+ulje cvet banata,1l,103,dis
+ulje dijamant,1l,99,gomex
+ulje dijamant,5l,569,tempo
+ulje dijamant mediteran,1l,249,univerexport
+ulje dijamant omegol,1l,199,maxi
+ulje iskon,1l,96,univerexport
+ulje vital,1l,97,tempo
+ulje robna marka,1l,92,dis
+maslinovo ulje carapelli,1l,1,idea
+maslinovo ulje monini extra1l,2l,3,idea
+maslinovo ulje monini extra,500ml,1,idea
+maslinovo ulje monini extra vergine 0,75l,0.75l,1,maxi
+maslinovo ulje monini extra virgin,1l,1,idea
+maslinovo ulje olitalia extra virgine,1l,1,idea
+maslinovo ulje ybarra,1l,899,roda
+maslinovo ulje ybarra,250ml,319,gomex
+maslinovo ulje ybarra,500ml,678,roda
+ulje carapelli od kostica grozdja 0,75l,0.75l,1,roda
+ulje monini od kostica grozdja,1l,1,maxi
+ulje olitalia od kostica grozdja,1l,1,idea
+ulje olitalia od kostica grozdja,500ml,489,roda
+palmino ulje dijamant ulje za przenje,3l,529,dis
+palmino ulje olitalia za przenje,5l,1,tempo
+kokosovo ulje granum,220ml,483,univerexport
+kokosovo ulje granum,600ml,1,maxi
+kokosovo ulje granum organic,220ml,457,dis
+maslinovo ulje zucchi od komine ,1l,393,dis
+maslinovo ulje robna marka,1l,499,roda
+ulje zucchi od kostica grozdja,1l,1,maxi
+biber kotanyi beli luk staklo,70g,239,maxi
+biber kotanyi beli mleveni,17g,86,tempo
+biber kotanyi crni mleveni kesica,17g,86,tempo
+biber kotanyi crni mleveni staklo,50g,189,maxi
+biber kotanyi crni zrno mlin,36g,284,maxi
+biber kotanyi sareni mesani staklo,40g,226,maxi
+biber kotanyi sareni zrno mlin,35g,274,maxi
+biber kotanyi zeleni zrno,12g,82,tempo
+bosiljak aroma,9g,29,roda
+bosiljak kotanyi,9g,74,tempo
+bosiljak kotanyi staklo,15g,142,maxi
+karanfilic aleva,5g,46,idea
+kari kotanyi mlin,45g,289,maxi
+kim aleva zrno,8g,11,idea
+lovorov list aleva,12g,32,dis
+lovorov list kotanyi,5g,74,tempo
+majcina dusica kotanyi,14g,74,tempo
+majoran kotanyi,6g,74,tempo
+mirodjija aroma,11g,37,roda
+mirodjija kotanyi,11g,74,tempo
+origano aleva,3g,11,idea
+origano kotanyi,8g,75,tempo
+persun kotanyi,7g,62,tempo
+safran kotanyi,12g,122,tempo
+vlasac kotanyi,5g,74,tempo
+zacin kotanyi beli luk granule,28g,86,tempo
+zacin kotanyi beli luk u granulama staklo,70g,182,maxi
+ljuta paprika aleva mlevena,100g,130,univerexport
+ljuta paprika aleva mlevena,50g,69,univerexport
+ljuta paprika aleva sudzuk tucana,150g,181,univerexport
+slatka paprika aleva,100g,119,maxi
+slatka paprika aleva,200g,224,tempo
+slatka paprika aleva,500g,628,univerexport
+slatka paprika aleva,50g,64,univerexport
+slatka paprika vitamin horgoska,100g,114,tempo
+slatka paprika vitamin horgoska,200g,224,dis
+slatka paprika vitamin horgoska,50g,60,dis
+slatka paprika robna marka,100g,99,maxi
+ljuta paprika robna marka,100g,10000000,idea
+musli fun & fit classic,1kg,359,roda
+musli fun & fit classic,250g,144,maxi
+musli fun & fit coko kakao,1kg,611,roda
+musli fun & fit coko kakao,250g,224,maxi
+musli fun & fit multigrain sa brusnicom,250g,194,maxi
+musli fun & fit nuts & seeds,250g,209,maxi
+musli fun & fit top,1kg,475,roda
+musli fun & fit top,250g,189,maxi
+musli fun & fit tropic,1kg,439,roda
+musli fun & fit tropic,250g,179,gomex
+musli podravka lino pillows,250g,199,univerexport
+musli podravka lino pillows milk,250g,199,univerexport
+musli vitalis chocolate,375g,364,tempo
+musli vitalis crunchy flakes,375g,299,dis
+musli vitalis double chocolate,450g,452,tempo
+musli vitalis honig mandel,450g,429,tempo
+musli vitalis nuss-mischung,450g,457,tempo
+ovsena kasa diet fit cokolada narandza,250g,240,dis
+ovsena kasa diet fit malina,250g,240,dis
+ovsena kasa diet fit sljiva cimet,250g,240,dis
+ovsena kasa diet fit sumsko voce,250g,240,dis
+ovsena kasa dr.oetker borovnica,60g,48,roda
+ovsena kasa dr.oetker brusnica,62g,49,maxi
+ovsena kasa dr.oetker chia i lan,60g,54,univerexport
+ovsena kasa dr.oetker cokolada,62g,62,tempo
+ovsena kasa dr.oetker cokolada i banana,62g,62,tempo
+ovsena kasa dr.oetker grozdje i cimet,62g,49,maxi
+ovsena kasa dr.oetker kajsija,62g,54,univerexport
+ovsena kasa dr.oetker maline,60g,65,tempo
+ovsena kasa dr.oetker sa brusnicom,248g,254,dis
+ovsena kasa dr.oetker sa kokosom,60g,54,univerexport
+ovsena kasa dr.oetker sumsko voce 4+1 gratis,248g,264,tempo
+ovsena kasa dr.oetker sumsko voce,60g,65,tempo
+ovsena kasa dr.oetker tropsko voce,62g,65,tempo
+ovsena kasa dr.oetker vanila,62g,49,maxi
+ovsena kasa fun&fit cokolada,60g,54,maxi
+ovsena kasa fun&fit jabuka i cimet,60g,54,maxi
+ovsena kasa fun&fit jagoda i chia,60g,54,maxi
+ovsena kasa fun&fit malina,60g,54,maxi
+pahuljice dobra ovsena kasa cokolada,260g,239,univerexport
+pahuljice dobra ovsena kasa jabuka,260g,264,dis
+pahuljice dobra ovsena kasa malina,260g,239,univerexport
+pahuljice dobra ovsena kasa sumsko voce,260g,239,univerexport
+cheerios,375g,403,dis
+cheerios ovsene,350g,338,roda
+cookie crisp pahuljice nestle,375g,409,tempo
+decija hrana nestle sinlac+ 250g,250g,409,tempo
+flory organic choco cerealije,200g,269,maxi
+fun & fit corn flakes,500g,267,univerexport
+nesquik cerealije nestle,625g,389,tempo
+o'clock pahuljice cokolada pionir,200g,127,roda
+o'clock pahuljice cokolada pionir,300g,213,dis
+pahuljice car na dar,250g,158,dis
+pahuljice corn corn flakes,250g,170,roda
+pahuljice fun & fit corn flakes,250g,179,univerexport
+pahuljice nestle chocapic zitarice,375g,409,tempo
+pahuljice nestle corn flakes,250g,172,dis
+pahuljice nestle corn flakes,500g,282,dis
+pahuljice nestle fitness,250g,284,univerexport
+pahuljice nestle fitness honey & almond,355g,359,tempo
+pahuljice nestle fitness voce,375g,349,idea
+pahuljice nestle lion karamela i cokolada,400g,403,dis
+pahuljice nestle nesquik cokoladne lopte,250g,301,dis
+pahuljice nestle nesquik duo,325g,405,dis
+pahuljice nestle nesquik zitarice,375g,319,maxi
+pirinac abc integralni,1kg,199,univerexport
+pirinac abc integralni,500g,99,dis
+pirinac abc kocanski,750g,167,univerexport
+pirinac c dugo zrno,1kg,169,dis
+pirinac c dugo zrno,500g,86,dis
+pirinac riso pronto indica,1kg,159,univerexport
+pirinac riso pronto round,1kg,223,univerexport
+pirinac scotti basmati125g,500g,249,idea
+pirinac scotti dugo zrno,1kg,300,roda
+pirinac scotti integralni,1kg,484,roda
+pirinac scotti parboiled,1kg,165,maxi
+pirinac scotti risotto arborio,1kg,399,tempo
+pirinac scotti thai125g,500g,179,idea
+galete italico corn cakes,130g,52,roda
+galete italico multigrain cakes,100g,52,roda
+galete italico rice cakes,100g,52,roda
+galete italico rice cakes slane,100g,52,roda
+galete rice cakes lan i suncokret,100g,54,univerexport
+galete rice cakes natural,100g,54,univerexport
+galete rice cakes susam i so,100g,54,univerexport
+galete what snack cili,50g,54,tempo
+galete what snack morska so,50g,54,tempo
+galete what snack pizza,50g,49,gomex
+galete what snack sir,50g,49,gomex
+zito frikom smrznuto posno,600g,375,roda
+zito frikom smrznuto sa slagom,150g,82,roda
+jogurt dukat 3,2%mm,1kg,84,univerexport
+jogurt dukat gusti,1kg,84,univerexport
+jogurt dukat sensia,1kg,92,maxi
+jogurt imlek 2,8% gusti,1kg,89,idea
+jogurt imlek balans+,1kg,96,idea
+jogurt imlek bello,750g,126,roda
+jogurt imlek moja kravica 2,8% dc ,1kg,89,gomex
+jogurt imlek moja kravica 2,8% tt,1kg,89,idea
+jogurt meggle 0,5%mm,1kg,79,maxi
+jogurt meggle 2,8%mm,1kg,87,roda
+jogurt mlekara subotica zdravo 2,8%mm,1kg,89,maxi
+jogurt 2,8%mm (robna marka),1kg,79,lidl
+dukatos jogurt visnja vanila dukat somboled,150g,52,roda
+jogurt dukat 3,2%mm,180g,21,tempo
+jogurt dukat 3,2%mm,250g,24,idea
+jogurt dukatos badem pistaci,150g,52,roda
+jogurt dukatos breskva,150g,52,roda
+jogurt dukatos cvrsti 9,7%mm,150g,37,tempo
+jogurt dukatos inspiracija b.cokolada, badem i kokos,150g,54,roda
+jogurt dukatos inspiracija kafa i coko kuglice,150g,54,roda
+jogurt dukatos inspiracija med i orah,150g,58,roda
+jogurt dukatos inspiracija nugat,150g,54,roda
+jogurt dukatos jagoda,150g,52,roda
+jogurt dukatos malina breskva,150g,52,roda
+jogurt dukatos sumsko voce,150g,52,roda
+jogurt grekos,150g,37,dis
+jogurt grekos jagoda,150g,52,maxi
+jogurt grekos kajsija,150g,52,maxi
+jogurt grekos malina kolac,150g,56,maxi
+jogurt grekos sumsko voce,150g,52,maxi
+jogurt grekos tiramisu,150g,56,maxi
+jogurt grekos visnja,150g,59,idea
+jogurt imlek 2,8% gusti,180g,22,idea
+jogurt imlek balans+,250g,36,univerexport
+jogurt imlek moja kravica 2,8%,180g,20,dis
+jogurt meggle 0,5%mm,180g,22,tempo
+jogurt meggle 2,8%mm,180g,20,dis
+jogurt mlekara subotica zdravo 2,8%mm,180g,18,dis
+jogurt 2,8%mm (robna marka),180g,17,tempo
+jogurt dukat 3,2%mm,500g,59,tempo
+jogurt dukatos cvrsti,330g,68,univerexport
+jogurt dukatos cvrsti 9,7%mm,400g,82,maxi
+jogurt grekos,400g,84,maxi
+jogurt imlek balans+,500g,62,idea
+jogurt imlek moja kravica 2,8%,500ml,57,idea
+jogurt meggle chia crna ribizla i borovnica,330g,99,tempo
+jogurt meggle chia jabuka banana spanac,330g,99,tempo
+jogurt meggle chia natur,330g,94,tempo
+jogurt dukat 3,2%mm 1,5kg,1.5kg,124,maxi
+jogurt dukat gusti 1.5kg,1.5kg,124,maxi
+jogurt dukat volim 1,5%mm 1,45kg,1.45kg,113,univerexport
+jogurt imlek 2,8% gusti 1,5kg,1.5kg,129,idea
+jogurt imlek balans+ 1,5kg,1.5kg,134,idea
+jogurt imlek moja kravica 2,8% 1,5kg,1.5kg,129,idea
+jogurt meggle 0,5%mm 1,5kg ,1.5kg,109,idea
+jogurt meggle 2,8%mm 1,5kg ,1.5kg,119,idea
+jogurt zdravo 2,8%mm pet 1,5kg,1.5kg,124,idea
+kefir balans 2,8%mm,1l,99,idea
+kefir meggle 2,8%mm,180g,20,tempo
+kefir meggle 2,8%mm,1kg,99,idea
+kefir meggle 2,8%mm,330g,45,tempo
+kefir meggle breskva marakuja,330g,80,roda
+kefir meggle jagoda,330g,72,tempo
+kefir meggle kremasti 8%,150g,34,tempo
+kefir meggle kremasti 8%,330g,69,tempo
+kefir meggle light 0,5%mm,1kg,94,idea
+kefir meggle mango ananas kokos,330g,72,tempo
+kefir z'bregov 3,5%mm,1l,114,maxi
+kiselo mleko dukat 3,2%mm,180g,19,tempo
+kiselo mleko dukat 3,2%mm,400g,49,univerexport
+kiselo mleko imlek moja kravica 2,8%mm,180g,21,idea
+kiselo mleko imlek moja kravica 2,8%mm,400g,44,idea
+kiselo mleko imlek moja kravica 2,8%mm,700g,79,idea
+kiselo mleko imlek moja kravica 6%mm,180g,29,idea
+kiselo mleko meggle 2,8%mm,180g,24,tempo
+kiselo mleko meggle 2,8%mm,400g,50,dis
+kiselo mleko meggle 2,8%mm,700g,79,tempo
+kiselo mleko zdravo 2,8%mm,180g,21,idea
+kiselo mleko 2,8%mm (robna marka),180g,19,lidl
+maslac biser,10g,16,univerexport
+maslac biser,125g,168,univerexport
+maslac biser,200g,209,maxi
+maslac imlek,200g,264,tempo
+maslac imlek moja kravica,125g,154,maxi
+maslac imlek moja kravica,20g,34,univerexport
+maslac meggle,200g,294,dis
+maslac meggle alpenbutter,125g,164,univerexport
+maslac meggle alpenbutter,250g,369,lidl
+maslac meggle alpinesse,250g,304,dis
+maslac meggle alpinesse slani,250g,304,dis
+maslac president,125g,159,tempo
+maslac president,200g,249,tempo
+maslac president light neslani,250g,229,tempo
+maslac president light slani,250g,229,tempo
+namaz od maslaca imlek original,200g,234,dis
+namaz od maslaca imlek slani,200g,234,dis
+maslac (robna marka),250g,234,maxi
+maslac (robna marka),125g,139,lidl
+coko-krem imlek,100g,87,dis
+coko-krem imlek,250g,206,dis
+desert campina piruet cokolada vanila,150g,56,dis
+desert danone disney casa,125g,52,tempo
+desert kinder max king,35g,69,idea
+desert kinder milch schnite,28g,49,idea
+desert kinder pingui,30g,54,maxi
+desert liegeois slag cokolada zott,175g,37,tempo
+desert liegeois slag vanila zott,175g,37,tempo
+desert zott monte coko,55g,36,tempo
+griz dukat sa mlekom,150g,66,roda
+puding puddis cokolada,125g,47,tempo
+puding puddis vanila,125g,47,tempo
+puding puddis vanila sa cokoladom,125g,45,tempo
+sutlijas dukat natur dolce,150g,61,roda
+cokoladno mleko alpsko,1l,129,roda
+cokoladno mleko dukat,1l,114,univerexport
+cokoladno mleko dukat,200ml,32,univerexport
+cokoladno mleko dukat,500ml,61,univerexport
+cokoladno mleko dukat mlekce,200ml,38,tempo
+cokoladno mleko imlek 0,1%mm,250ml,39,dis
+cokoladno mleko imlek 1%mm,1l,119,idea
+cokoladno mleko imlek 1%mm,500ml,69,idea
+cokoladno mleko meggle milky max,1l,129,tempo
+cokoladno mleko meggle milky max,200ml,35,tempo
+cokoladno mleko meggle milky max,500ml,59,dis
+dr.oetker milk shake banana,36g,51,dis
+dr.oetker milk shake cokolada,36g,51,tempo
+dr.oetker milk shake jagoda,36g,51,tempo
+dr.oetker milk shake vanila,36g,51,dis
+mleko imlek sa ukusom jagode,200ml,42,tempo
+mleko imlek sa ukusom vanile,200ml,42,tempo
+napitak imlek flert kafica cappuccino,330ml,109,maxi
+napitak imlek flert kafica espresso,330ml,109,maxi
+napitak imlek flert kafica macchiato,330ml,109,maxi
+dugotrajno mleko alpsko 3,5%mm,1l,109,dis
+dugotrajno mleko bello 2,8%mm,1l,147,dis
+dugotrajno mleko dukat 1,5%mm,1l,87,tempo
+dugotrajno mleko dukat 2,8%mm,1l,84,gomex
+dugotrajno mleko dukat 2,8%mm bez cepa,1l,84,dis
+dugotrajno mleko imlek 0,5%mm,1l,104,tempo
+dugotrajno mleko imlek 1,5%mm 1,5l,1.5l,124,dis
+dugotrajno mleko imlek 1,5%mm,1l,89,idea
+dugotrajno mleko imlek 1,5%mm,500ml,62,dis
+dugotrajno mleko imlek 2,8%mm 1,5l,1.5l,124,tempo
+dugotrajno mleko imlek 2,8%mm,1l,89,maxi
+dugotrajno mleko imlek 2,8%mm,500ml,63,dis
+dugotrajno mleko imlek 3,2%mm,1l,89,idea
+dugotrajno mleko imlek a+d3 3,2%mm,250ml,40,univerexport
+dugotrajno mleko imlek a+d3 3,2mm% ,1l,119,idea
+dugotrajno mleko imlek bez laktoze 1,5%mm,1l,129,gomex
+dugotrajno mleko imlek junior 2,8%mm,1l,123,roda
+dugotrajno mleko imlek junior 2,8%mm,250ml,37,dis
+dugotrajno mleko meggle 0,9%mm,1l,69,idea
+dugotrajno mleko meggle 1,6%mm,1l,79,dis
+dugotrajno mleko meggle 2,8%mm,1l,79,idea
+dugotrajno mleko meggle 2,8%mm,500ml,59,tempo
+dugotrajno mleko meggle 3,2%mm,1l,79,maxi
+dugotrajno mleko meggle bez cepa 2,8%mm,1l,64,dis
+dugotrajno mleko z'bregov 2,8mm%%,1l,89,gomex
+dugotrajno mleko z'bregov 2,8mm%%,2l,139,gomex
+dugotrajno mleko zdravo 2,8%mm 1,5l,1.5l,148,univerexport
+dugotrajno mleko zdravo 2,8%mm,1l,79,gomex
+dugotrajno mleko 2,8%mm (robna marka),1l,79,univerexport
+dugotrajno mleko imlek za kafu 3,8%mm,1l,119,dis
+sveze mleko dukat 2,8%mm 1.5l ,1.5l,114,idea
+sveze mleko dukat 2,8%mm ,1l,79,dis
+sveze mleko dukat volim 1,5%mm 0,965l,0.96l,69,gomex
+sveze mleko dukat volim 1,5%mm 1,45l,1.45l,109,tempo
+sveze mleko imlek 1,5%mm 1,5l,1.5l,135,univerexport
+sveze mleko imlek 2,8%mm 1,5l,1.5l,124,idea
+sveze mleko imlek 2,8%mm,1l,82,maxi
+sveze mleko imlek 2,8%mm,1l,82,univerexport
+sveze mleko zdravo 1,5%mm,1l,92,idea
+sveze mleko zdravo 2,8%mm 1,5l ,1.5l,124,univerexport
+kisela pavlaka biser 20%mm,380g,94,dis
+kisela pavlaka imlek moja kravica 12%mm,700g,139,idea
+kisela pavlaka imlek moja kravica 20%mm,180g,44,idea
+kisela pavlaka imlek moja kravica 20%mm,400g,89,idea
+kisela pavlaka imlek moja kravica 20%mm,700g,164,idea
+kisela pavlaka meggle 12%mm,150g,46,dis
+kisela pavlaka meggle 12%mm,400g,74,idea
+kisela pavlaka meggle 12%mm,700g,129,maxi
+kisela pavlaka meggle 20%mm,150g,44,univerexport
+kisela pavlaka meggle 20%mm,400g,109,tempo
+kisela pavlaka meggle 20%mm,700g,181,dis
+kisela pavlaka president,150g,46,tempo
+kisela pavlaka president,300g,84,tempo
+kisela pavlaka zdravo 20%mm,180g,46,maxi
+kisela pavlaka zdravo 20%mm,700g,164,maxi
+kisela pavlaka 20%mm (robna marka),180g,39,univerexport
+kisela pavlaka 12%mm (robna marka),180g,34,lidl
+kisela pavlaka 20%mm (robna marka),400g,84,tempo
+kisela pavlaka 20%mm (robna marka),700g,139,dis
+kisela pavlaka 12%mm (robna marka),700g,129,dis
+paprika u pavlaci meggle,700g,358,roda
+paprika u pavlaci meggle blaga,700g,358,roda
+krem za kuvanje polimark,1l,269,tempo
+krem za kuvanje polimark,200ml,74,tempo
+krem za kuvanje polimark,500ml,149,tempo
+meggle pavlaka za kuvanje light,200ml,82,maxi
+pavlaka za kuvanje campina,200ml,99,univerexport
+pavlaka za kuvanje campina culinaire,1l,392,dis
+pavlaka za kuvanje gran cucina,1l,309,roda
+pavlaka za kuvanje gran cucina,200ml,101,roda
+pavlaka za kuvanje gran cucina,500ml,185,dis
+pavlaka za kuvanje imlek 20%mm 0,5l,0.5l,179,dis
+pavlaka za kuvanje meggle 20%mm,1l,299,maxi
+pavlaka za kuvanje meggle 20%mm,200ml,87,maxi
+pavlaka za kuvanje meggle 20%mm,500ml,189,maxi
+pavlaka za kuvanje meggle light 10%mm,500ml,179,maxi
+pavlaka za kuvanje president,1kg,299,tempo
+pavlaka za kuvanje president,200g,94,dis
+pavlaka za kuvanje president,500g,179,maxi
+coffee cream polimark,200ml,92,tempo
+pavlaka za kafu campina10g,100g,46,tempo
+pavlaka za kafu zott kaffee sahne7,5g,75g,42,tempo
+pavlaka za kuvanje hulala,1l,316,dis
+pavlaka za kuvanje hulala,200ml,89,tempo
+pavlaka za kuvanje hulala,500ml,177,dis
+slag krem polimark,1l,229,tempo
+slag krem polimark,200ml,64,tempo
+slag krem polimark,500ml,139,tempo
+slatka pavlaka hole',200ml,79,univerexport
+slatka pavlaka hole' biljna,500ml,154,maxi
+slatka pavlaka meggle creme patisserie,1l,256,maxi
+slatka pavlaka meggle creme patisserie,200ml,76,maxi
+slatka pavlaka meggle creme patisserie,500ml,158,maxi
+svezi sir mlekara subotica ella,400g,159,dis
+balans+ sir,220g,129,univerexport
+balans+ sir,450g,238,dis
+feta dodoni,200g,387,roda
+feta dodoni,400g,775,roda
+feta grekos 45%mm,250g,129,univerexport
+feta grekos,500g,239,gomex
+feta grekos,900g,3,dis
+feta mlekara sabac,250g,127,idea
+feta mlekara sabac 45%mm,450g,223,idea
+feta mlekara sabac,950g,299,tempo
+feta president somborska,250g,119,maxi
+feta president somborska,500g,219,maxi
+feta president somborska,900g,359,maxi
+bajuval paladin,1kg,1,idea
+biser pizza mozzarella,450g,464,roda
+cheddar paladin,1kg,1,maxi
+edamer belje,1kg,778,univerexport
+edamer biser 45%mm,1kg,1,idea
+edamer imlek edamac extra,1kg,921,roda
+edamer paladin,1kg,1,idea
+edamer president emmental,250g,489,tempo
+edamer vasa mlekara,1kg,1,maxi
+gauda belje,1kg,778,univerexport
+gauda biser 45%mm,1kg,1,idea
+gauda imlek 45%mm,1kg,1,univerexport
+gauda paladin,1kg,1,idea
+gauda vasa mlekara,1kg,1,idea
+iriski sir imlek,1kg,1,idea
+kackavalj biser 45%mm,1kg,1,maxi
+mozzarella biser,450g,409,dis
+mozzarella galbani,125g,143,tempo
+mozzarella galbani maxi,200g,272,tempo
+mozzarella galbani mini,150g,256,roda
+mozzarella meggle,125g,159,dis
+pivnicki sir imlek,1kg,1,idea
+pizza mozzarela vasa mlekara,1kg,1,univerexport
+tilsiter paladin,1kg,1,idea
+trapist biser 45%mm,1kg,1,maxi
+trapist biser karavan dimljeni 45%mm,1kg,1,idea
+trapist imlek 45%mm,1kg,1,univerexport
+trapist vasa mlekara,1kg,1,maxi
+trappista paladin,1kg,1,idea
+edamer robna marka,1kg,10000000,idea
+gauda robna marka,1kg,549,lidl
+mladi sir mlekara sabac,450g,182,dis
+mladi sir president domaci,250g,94,tempo
+mladi sir president domaci,500g,174,maxi
+sitan sir imlek,500g,209,dis
+maskarpone galbani ekstra meki,250g,310,roda
+maskarpone galbani ekstra meki,500g,549,univerexport
+parmezan galbani grangusto,180g,510,univerexport
+parmezan galbani paesano,40g,84,maxi
+parmezan galbani paesano,80g,209,idea
+parmezan zanetti formaggio,40g,79,tempo
+parmezan zanetti formaggio,80g,169,tempo
+parmezan zanetti grana padano,50g,139,tempo
+meki sir president camembert,250g,419,tempo
+kajmak president mladi,100g,99,idea
+kajmak president mladi,250g,209,tempo
+sirni namaz mlekara sabac ala kajmak,150g,79,dis
+sirni namaz mlekara sabac ala kajmak,250g,129,maxi
+mileram biser 35%mm,380g,109,gomex
+mileram meggle 22%mm,400g,122,roda
+mileram mlekara subotica 22%mm,400g,122,tempo
+mileram president,300g,94,roda
+mileram 22%mm (robna marka),400g,99,lidl
+krem sir abc,100g,59,univerexport
+krem sir abc,200g,109,roda
+krem sir abc kulen,100g,64,maxi
+krem sir abc sa sunkom,100g,64,maxi
+krem sir abc sa sunkom,200g,122,maxi
+krem sir abc vlasac,100g,71,roda
+krem sir biser belisimo,140g,129,gomex
+moja kravica krem sir imlek,100g,49,dis
+moja kravica krem sir imlek,200g,94,dis
+sirni namaz biser mleksi,150g,89,gomex
+sirni namaz biser vajkerm natur,250g,139,gomex
+sirni namaz biser vajkrem natur ,100g,59,gomex
+sirni namaz kremsi,250g,131,dis
+sirni namaz meggle,100g,54,univerexport
+sirni namaz meggle,200g,108,dis
+sirni namaz meggle blache classic,150g,99,tempo
+sirni namaz meggle blache paradajz i luk,150g,102,tempo
+sirni namaz meggle blache ren,150g,102,tempo
+sirni namaz meggle blache zacinsko bilje,150g,104,tempo
+sirni namaz mlekara sabac ala krem,250g,179,roda
+sirni namaz philadelphia classic,125g,159,maxi
+sirni namaz philadelphia light,125g,169,idea
+sirni namaz president somborska,150g,106,roda
+sirni namaz president somborska,250g,129,univerexport
+sirni namaz sirko ,100g,54,idea
+sirni namaz sirko luk,150g,89,roda
+sirni namaz sirko povrce,150g,89,roda
+sirni namaz sirko sa urnebes,150g,89,roda
+surutka meggle vita,1l,69,tempo
+lisnati sir biser tost singles,120g,99,maxi
+lisnati sir biser tost topi ,120g,99,maxi
+lisnati sir biser tufi sendvic,100g,123,idea
+lisnati sir president cheddar,120g,114,idea
+lisnati sir president emmentaler,120g,114,idea
+lisnati sir snack emmentaler,150g,133,roda
+lisnati sir snack gouda,150g,109,dis
+lisnati sir snack sandwich,150g,109,dis
+lisnati sir snack toast,150g,109,dis
+topljeni sir biser duopack140g,280g,229,maxi
+topljeni sir biser feferoni,140g,143,tempo
+topljeni sir biser natur,140g,129,idea
+topljeni sir biser sunka,140g,157,roda
+topljeni sir biser tufi,80g,41,tempo
+topljeni sir biser tufi trouglici,140g,124,dis
+topljeni sir happy cow regular,140g,156,tempo
+topljeni sir happy cow sa ukusom sunke,140g,145,univerexport
+topljeni sir imlek sumadinka,140g,144,tempo
+topljeni sir president natur,140g,119,idea
+topljeni sir zdenka cardas,140g,183,roda
+topljeni sir zdenka classic,140g,177,roda
+vocni jogurt imlek jogood pomorandza & mango,330g,77,roda
+vocni jogurt danone actimel jagoda100ml,400ml,189,univerexport
+vocni jogurt danone musli jagoda,125g,59,maxi
+vocni jogurt dukat breskva,1kg,129,maxi
+vocni jogurt dukat breskva,330g,64,idea
+vocni jogurt dukat jagoda,1kg,129,maxi
+vocni jogurt dukat jagoda,330g,54,tempo
+vocni jogurt dukat sumsko voce,1kg,129,maxi
+vocni jogurt dukat sumsko voce,330g,54,tempo
+vocni jogurt dukat visnja,1kg,129,maxi
+vocni jogurt dukat visnja,330g,54,tempo
+vocni jogurt fruttis breskva kruska banana,125g,44,gomex
+vocni jogurt fruttis jagoda,400g,94,roda
+vocni jogurt fruttis jagoda breskva,125g,38,roda
+vocni jogurt fruttis jagoda malina,125g,50,dis
+vocni jogurt fruttis jagoda tresnja,125g,38,roda
+vocni jogurt fruttis kajsija,400g,105,dis
+vocni jogurt fruttis kajsija mango tresnja,125g,44,dis
+vocni jogurt fruttis sumsko voce,400g,94,roda
+vocni jogurt imlek jogood jagoda,330g,71,dis
+vocni jogurt imlek jogood kajsija,330g,73,dis
+vocni jogurt imlek jogood sumsko voce,330g,73,dis
+vocni jogurt imlek jogood visnja,330g,71,dis
+ajvar amfissa blagi,550g,194,dis
+ajvar amfissa ljuti,550g,194,dis
+ajvar bakina tajna,300g,279,roda
+ajvar bakina tajna,550g,469,maxi
+ajvar bakina tajna ljuti,300g,279,roda
+ajvar bakina tajna ljuti,550g,469,maxi
+ajvar bakina tajna sa patlidzanom,550g,562,roda
+ajvar dijamant blagi,350g,164,roda
+ajvar dijamant blagi,680g,260,univerexport
+ajvar dijamant ljuti,350g,164,roda
+ajvar dijamant ljuti,680g,269,dis
+ajvar mama's blagi,290g,459,tempo
+ajvar mama's blagi,550g,579,tempo
+ajvar mama's ljuti,290g,459,tempo
+ajvar mama's ljuti,550g,579,tempo
+ajvar moc prirode ljuti uprzeni,360g,146,univerexport
+ajvar moc prirode ljuti uprzeni,700g,199,tempo
+ajvar moc prirode uprzeni,360g,146,univerexport
+ajvar moc prirode uprzeni,700g,199,tempo
+ajvar podravka blagi,350g,131,dis
+ajvar podravka blagi,690g,217,roda
+ajvar podravka ljuti,350g,131,dis
+ajvar podravka ljuti,690g,220,roda
+ajvar zdravo organic,310g,358,roda
+ljutenica bakina tajna,550g,479,maxi
+pindjur bakina tajna,550g,479,maxi
+cvekla dijamant,680g,132,dis
+cvekla podravka,680g,144,roda
+cvekla zdravo organic,700g,139,maxi
+cvekla zdravo organic cela,720g,290,roda
+feferone dijamant,650g,184,roda
+feferone moc prirode,370g,115,roda
+feferone moc prirode,680g,188,roda
+grasak bonduelle,200g,96,roda
+grasak bonduelle,400g,129,idea
+grasak bonduelle,800g,217,tempo
+grasak cirio,410g,152,roda
+grasak podravka,400g,96,dis
+grasak podravka,800g,174,roda
+kornisoni moc prirode,680g,169,gomex
+kornisoni zdravo organic,670g,203,roda
+kornisoni premia baby,680g,199,tempo
+krastavci dijamant,660g,125,dis
+krastavci moc prirode,370g,115,roda
+krastavci podravka,680g,193,roda
+krastavci zdravo organic,680g,194,maxi
+kukuruz bonduelle,170g,96,roda
+kukuruz bonduelle,340g,119,maxi
+kukuruz bonduelle,670g,218,dis
+kukuruz cirio secerac,300g,164,roda
+kukuruz iska secerac,340g,109,idea
+kukuruz podravka secerac,340g,113,roda
+crne masline dijamant,370g,177,roda
+crne masline iska,140g,138,roda
+masline amfissa bez kostica,720g,259,maxi
+masline amfissa sa kosticom,310g,174,roda
+masline amfissa sa kosticom,720g,244,maxi
+masline amfissa sa paprikom,720g,294,maxi
+masline dijamant bez kostice,212g,125,roda
+masline dijamant bez kostice,370g,155,roda
+masline dijamant sa kosticom,370g,154,roda
+masline dijamant sa paprikom,212g,131,roda
+masline dijamant sa paprikom,370g,177,roda
+masline iska sa paprikom,140g,138,roda
+paprike moc prirode barene,680g,194,univerexport
+pasulj bonduelle crveni,400g,119,maxi
+pasulj bonduelle crveni sa cilijem,400g,195,dis
+pasulj iska,410g,104,dis
+pasulj podravka beli,400g,106,roda
+pasulj podravka crveni,400g,107,dis
+sampinjoni bonduelle rezani,314ml,179,tempo
+sampinjoni bonduelle rezani,580ml,290,roda
+sampinjoni moc prirode celi,720g,329,roda
+sampinjoni moc prirode rezani,370g,197,univerexport
+sampinjoni moc prirode rezani,720g,322,univerexport
+ananas iska kocka,560g,180,univerexport
+ananas iska kocka,850g,260,univerexport
+ananas iska kolut,560g,189,univerexport
+ananas iska kolut,820g,329,univerexport
+ananas la perla kocka,580g,199,univerexport
+ananas la perla kolut,580g,264,tempo
+kompot iska breskva,820g,244,univerexport
+kompot podravka od breskve,820g,192,dis
+kompot podravka od kajsije light,820g,239,roda
+kompot podravka vocni koktel light,800g,337,roda
+marmelada nectar breskva,700g,214,roda
+marmelada nectar jagoda,370g,150,dis
+marmelada nectar jagoda,700g,242,roda
+marmelada nectar kajsija,370g,128,dis
+marmelada nectar kajsija,700g,199,maxi
+marmelada nectar mesana,370g,130,dis
+marmelada nectar mesana,700g,199,maxi
+marmelada nectar sipurak,370g,130,dis
+marmelada nectar sipurak,700g,199,maxi
+marmelada nectar sljiva,370g,130,dis
+marmelada nectar sljiva,700g,214,roda
+marmelada nectar visnja,370g,130,dis
+marmelada nectar visnja,700g,214,roda
+marmelada podravka sipurak,380g,154,roda
+marmelada podravka sipurak,710g,257,dis
+marmelada takovo kajsija,800g,204,dis
+marmelada takovo mesana,800g,204,dis
+marmelada takovo sipurak,800g,229,roda
+pekmez bakina tajna kajsija,375g,319,roda
+pekmez bakina tajna kajsija,700g,460,roda
+pekmez bakina tajna sipurak,375g,294,dis
+pekmez bakina tajna sipurak,700g,459,tempo
+pekmez bakina tajna sljiva,375g,294,dis
+pekmez bakina tajna sljiva,700g,459,roda
+slatko bakina tajna borovnica,375g,420,roda
+slatko bakina tajna jagoda,375g,400,roda
+slatko bakina tajna kupina,375g,420,roda
+beli luk,1kg,269,gomex
+blitva veza komad,1kg,17,maxi
+brokoli,1kg,229,roda
+celer,1kg,129,maxi
+crni luk,1kg,99,idea
+crveni luk,1kg,119,tempo
+cvekla,1kg,46,dis
+djumbir,1kg,309,tempo
+karfiol,1kg,179,roda
+kelj,1kg,79,tempo
+krastavac,1kg,119,maxi
+krompir beli,1kg,64,idea
+krompir crveni,1kg,58,dis
+kupus crveni,1kg,119,lidl
+kupus mladi,1kg,109,univerexport
+paprika crvena silja,1kg,269,gomex
+paprika ljuta komad,1kom,17,maxi
+paprika zuta silja,1kg,279,idea
+paradajz,1kg,149,idea
+paradajz cherry,1kg,299,univerexport
+patlidzan plavi,1kg,150,maxi
+persun koren,1kg,179,dis
+praziluk,1kg,119,roda
+rukola,1kg,299,univerexport
+sampinjoni,400g,84,lidl
+sargarepa,1kg,52,lidl
+tikvice bele,1kg,129,maxi
+zelena salata,1kg,29,gomex
+salata iceberg,200g,119,idea
+salata mediteranea,200g,159,univerexport
+suve kajsije abc,150g,214,maxi
+suve sljive abc bez kosrica,200g,177,maxi
+suve sljive abc kostica,200g,112,maxi
+suvo grozdje abc,100g,62,maxi
+ananas,1kg,149,idea
+avokado,1kg,469,roda
+banane,1kg,109,maxi
+belo grozdje,1kg,329,lidl
+crno grozdje,1kg,329,lidl
+grejp crveni,1kg,107,tempo
+grejp zuti,1kg,117,tempo
+jabuke ajdared,1kg,39,dis
+jabuke greni smit,1kg,59,dis
+jabuke kiku,1kg,119,univerexport
+jabuke modi,1kg,119,roda
+jabuke zlatni delises,1kg,27,maxi
+kivi,1kg,109,dis
+kivi korpica,1kg,89,idea
+klementina,1kg,124,lidl
+kruske abata,1kg,174,idea
+kruske viljamovka,1kg,129,roda
+limeta,1kg,429,univerexport
+limun,1kg,119,dis
+lubenica,1kg,139,idea
+mandarina,1kg,119,dis
+mango,1kg,369,roda
+nar,1kg,179,roda
+pomelo,1kg,229,roda
+pomorandza,1kg,79,idea
+kobasica zlatiborac cajna govedja,320g,335,roda
+kobasica zlatiborac cajna rinfuz,1kg,1,gomex
+kobasica zlatiborac govedja cajna,1kg,1,idea
+cajna kobasica robna marka,1kg,1,maxi
+budimska carnex,1kg,1,idea
+budimska carnex,270g,342,roda
+budimska neoplanta,1kg,1,idea
+budimska neoplanta,305g,349,tempo
+budimska yuhor,1kg,1,idea
+cajna kobasica carnex,1kg,1,idea
+cajna kobasica carnex,290g,249,tempo
+cajna kobasica neoplanta,1kg,1,idea
+cajna kobasica neoplanta,295g,307,roda
+cajna kobasica topola,1kg,1,maxi
+cajna kobasica yuhor,1kg,1,idea
+cajna kobasica yuhor,300g,249,tempo
+izletnicka topola,1kg,1,idea
+kobasica neoplanta frustuk,1kg,1,maxi
+kobasica neoplanta frustuk ljuta,1kg,1,maxi
+kobasica neoplanta slavska,1kg,1,maxi
+kraljevska kobasica zlatiborac,1kg,1,maxi
+kulen carnex,1kg,1,univerexport
+kulen carnex,270g,327,roda
+kulen neoplanta,1kg,1,idea
+kulen neoplanta,305g,380,roda
+kulen topola,1kg,1,idea
+njeguska topola,1kg,1,idea
+piknik topola,1kg,1,idea
+sendvic salama zlatiborac,1kg,1,tempo
+sremska topola,1kg,1,idea
+kulen yuhor,1kg,1,idea
+kulen zlatiborac govedji rinfuz,1kg,1,idea
+kulen zlatiborac govedji vakuum,100g,127,roda
+kulen zlatiborac rinfuz,1kg,1,maxi
+kulen zlatiborac vakuum,100g,124,dis
+kulen robna marka,1kg,1,idea
+sudzuk zlatiborac vakuum,1kg,1,maxi
+budimska carnex,100g,132,tempo
+budimska yuhor,100g,129,dis
+izletnicka topola,100g,175,tempo
+kulen carnex,100g,124,idea
+kulen neoplanta,100g,119,univerexport
+kulen topola,100g,139,tempo
+kulen yuhor,100g,129,dis
+piknik salama topola,100g,139,tempo
+haringa eva u biljnom ulju,170g,193,roda
+haringa eva u paradajz sosu,170g,181,dis
+skusa eva u biljnom ulju,170g,196,dis
+skusa la perla fileti,115g,139,gomex
+narezak carnex mesni,100g,74,gomex
+narezak carnex mesni,150g,109,tempo
+narezak neoplanta govedji,150g,111,dis
+narezak neoplanta mesni,150g,109,roda
+narezak yuhor govedji,150g,1,dis
+narezak yuhor mesni,150g,108,dis
+sardina la perla,125g,89,gomex
+sardina stari beograd,100g,84,dis
+sardina stari beograd u biljnom ulju,100g,91,roda
+sardine eva gold,115g,138,roda
+sardine eva paradajz,115g,99,gomex
+sardine eva pikant,115g,99,maxi
+sardine eva povrce u umaku,115g,99,maxi
+sardine eva sa limunom,115g,99,maxi
+sardine eva u biljnom ulju,115g,99,gomex
+tunjevina eva fileti u biljnom ulju,115g,274,dis
+tunjevina eva komadi,160g,273,dis
+tunjevina eva komadici,160g,278,univerexport
+tunjevina eva komadici usitnjeni,160g,141,dis
+tunjevina eva sa povrcem,115g,175,dis
+tunjevina eva u paradajz sosu,115g,160,dis
+tunjevina la perla komadi,170g,159,roda
+tunjevina la perla komadi povrce,170g,193,roda
+tunjevina la perla mrvljena,170g,99,gomex
+tunjevina rio mare maslinovo ulje,160g,299,tempo
+tunjevina rio mare maslinovo ulje160g,320g,599,tempo
+tunjevina rio mare maslinovo ulje80g,240g,469,maxi
+tunjevina rio mare maslinovo ulje80g,320g,599,tempo
+tunjevina rio mare maslinovo ulje roza,80g,289,maxi
+tunjevina rio mare naturale sopstveni sok,160g,199,gomex
+tunjevina rio mare naturale sopstveni sok80gr,320g,599,tempo
+tunjevina rio mare salata kukuruz,160g,269,idea
+tunjevina rio mare salata mexicana,160g,269,idea
+namaz neoplanta djacki,130g,39,dis
+namaz neoplanta pileci,130g,39,dis
+namaz neoplanta sa sunkom,130g,39,dis
+namaz rio mare pate losos tuba,100g,224,maxi
+namaz rio mare pate tunj sa paprikom,120g,249,tempo
+namaz rio mare pate tunj-kecap tuba,100g,249,tempo
+namaz rio mare pate tunjevina tuba,100g,249,tempo
+pasteta argeta cureca,45g,55,roda
+pasteta argeta cureca,95g,79,univerexport
+pasteta yuhor cureca delicata,50g,44,roda
+pasteta argeta jetrena,95g,79,univerexport
+pasteta carnex jetrena,150g,74,tempo
+pasteta carnex jetrena,50g,35,dis
+pasteta carnex jetrena,75g,44,maxi
+pasteta patelina jetrena,60g,44,idea
+pasteta patelina jetrena,90g,49,univerexport
+pasteta argeta junior,95g,80,tempo
+pasteta yuhor domacinska delicata,95g,78,univerexport
+pasteta yuhor pikant delicata,95g,59,dis
+pasteta carnex sa povrcem,50g,35,dis
+pasteta carnex sa povrcem,75g,44,tempo
+pasteta carnex sa sunkom,50g,35,dis
+pasteta carnex sa sunkom,75g,44,tempo
+pasteta carnex selection sa dimljenom slaninom,95g,74,dis
+pasteta carnex selection sa sljivama,95g,39,roda
+pasteta patelina sunka,90g,49,univerexport
+pasteta topola sa povrcem u crevu,130g,49,gomex
+pasteta argeta kokosija,45g,52,maxi
+pasteta argeta kokosija,95g,79,roda
+pasteta argeta pikant kokosija,95g,79,maxi
+pasteta carnex smazalice,50g,36,dis
+pasteta carnex smazalice,95g,54,tempo
+pasteta patelina pileca,60g,44,idea
+pasteta patelina pileca,90g,49,univerexport
+pasteta yuhor kokosija delicata,50g,54,roda
+pasteta yuhor kokosija delicata,95g,59,dis
+pasteta yuhor pikant kokosija delicata,50g,54,roda
+pasteta yuhor pileca,150g,59,roda
+pasteta argeta losos,95g,167,dis
+pasteta argeta riblja posna,95g,109,tempo
+pasteta argeta tuna,45g,74,gomex
+pasteta argeta tuna,95g,109,tempo
+pasteta argeta tuna siciliana,95g,139,tempo
+pasteta patelina tuna,60g,59,idea
+pasteta patelina tuna,90g,72,maxi
+pasteta yuhor tuna delicata,95g,69,dis
+duvan cvarci bilbi,200g,222,tempo
+duvan cvarci bilbi ljuti,200g,249,tempo
+duvan cvarci zlatiborac,150g,179,tempo
+kraski vrat topola,100g,252,univerexport
+pecenica carnex,1kg,649,roda
+pecenica neoplanta dimljena vakuum,1kg,1,maxi
+pecenica zlatiborac svinjska vakuum,100g,269,idea
+pecenica zlatiborac svinjska vakuum,1kg,2,maxi
+svinjska pecenica topola,100g,144,idea
+prsuta krainer bez koske i koze,1kg,1,tempo
+prsuta zlatiborac govedja rinfuz,1kg,3,univerexport
+prsuta zlatiborac govedja vakuum,100g,319,roda
+prsuta zlatiborac svinjska vakuum,100g,239,roda
+suva svinjska prsuta carnex,100g,199,tempo
+topolski prsut topola,100g,268,roda
+panceta carnex,100g,151,tempo
+panceta carnex,1kg,1,idea
+slanina zlatiborac tanka vakuum,100g,194,idea
+slanina zlatiborac tanka vakuum,1kg,1,idea
+kobasica carnex alpska,1kg,415,tempo
+kobasica carnex alpska,350g,151,tempo
+kobasica neoplanta alpska,1kg,399,idea
+kobasica neoplanta alpska,350g,149,idea
+kobasica yuhor alpska,1kg,479,roda
+kobasica yuhor alpska,350g,152,tempo
+kobasica zlatiborac alpska,1kg,456,dis
+kobasica zlatiborac alpska,350g,159,idea
+gran podere cureca prsa,1kg,1,idea
+salama zlatiborac govedja rinfuz,1kg,1,idea
+salama zlatiborac govedja vakuum,100g,131,roda
+delikates kare carnex u omotu,1kg,1,maxi
+delikates kare carnex u omotu,350g,285,tempo
+dimljena slanina carnex u omotu,1kg,612,tempo
+kare u omotu zlatiborac,1kg,863,roda
+kare u omotu zlatiborac,350g,284,idea
+kobasica yuhor planinska specijal,325g,97,roda
+kobasica yuhor specijal,325g,89,roda
+salama carnex delikates sa povrcem,1kg,279,tempo
+salama carnex novosadska,1kg,447,tempo
+salama carnex pariska,1kg,359,tempo
+salama carnex posebna,1kg,319,tempo
+salama carnex posebna,350g,115,tempo
+kobasica moja pileca,1kg,290,roda
+kobasica moja pileca,340g,89,dis
+kobasica moja specijal,1kg,290,roda
+kobasica moja specijal,340g,89,tempo
+kobasica neoplanta pipi,1kg,469,roda
+kobasica neoplanta pipi,600g,234,dis
+kobasica neoplanta pipi mini,350g,129,idea
+kobasica neoplanta pipi povrce,1kg,503,univerexport
+kobasica neoplanta pipi povrce mini,350g,175,roda
+kobasica poli classic,1kg,629,univerexport
+kobasica poli classic,220g,174,tempo
+kobasica poli classic,500g,299,tempo
+kobasica poli light,220g,171,tempo
+kobasica poli light,500g,319,dis
+kobasica poli sa sirom,220g,175,dis
+kobasica poli sa sirom,500g,319,dis
+kobasica wudy pop curetina piletina,500g,179,univerexport
+kobasica yuhor cureca,325g,92,roda
+kobasica yuhor pileca specijal,325g,89,roda
+kuvani cureci file neoplanta,360g,346,dis
+kuvani pileci file neoplanta,360g,342,univerexport
+pilece grudi neoplanta,1kg,812,dis
+pilece grudi neoplanta,350g,239,maxi
+salama gala,1kg,379,idea
+salama gala,500g,189,univerexport
+salama neoplanta kuvani pileci file,1kg,1,idea
+salama yuhor pileca posebna,1kg,279,tempo
+salama yuhor pileca posebna,350g,99,tempo
+pileca prsa zlatiborac,1kg,549,maxi
+pileca prsa zlatiborac,350g,236,idea
+salama zlatiborac domaca rinfuz,1kg,1,idea
+salama zlatiborac domaca vakuum,100g,127,idea
+narezak topola sendvic,1kg,524,maxi
+pica sunka carnex,1kg,462,tempo
+pica sunka zlatiborac,1kg,399,gomex
+stisnjena sunka yuhor,1kg,549,tempo
+stisnjena sunka yuhor,350g,199,tempo
+stisnjena sunka zlatiborac,1kg,599,maxi
+stisnjena sunka zlatiborac,350g,235,idea
+sunka carnex specijal kuvana,1kg,1,idea
+sunka carnex stisnjena,350g,235,tempo
+sunka carnex stisnjena u crevu,1kg,599,roda
+sunka neoplanta stisnjena,1kg,599,idea
+sunka neoplanta stisnjena,350g,214,maxi
+sunka neoplanta za pizzu,1kg,399,gomex
+sunka neoplanta za pizzu mini,350g,164,roda
+sunka pik u omotu,1kg,649,idea
+sunka pik u omotu,350g,251,univerexport
+sunka pik zlatna,1kg,1,maxi
+sunka yuhor u foliji,1kg,1,idea
+salama neoplanta gudi,350g,129,idea
+salama neoplanta gudi,600g,239,univerexport
+salama neoplanta gudi posebna,1kg,469,roda
+salama neoplanta gudi sa sirom,370g,179,dis
+salama topola francuska sa povrcem,1kg,199,univerexport
+salama yuhor posebna,1kg,334,dis
+salama yuhor posebna,350g,129,tempo
+budjola kosmajska,100g,322,roda
+dimljena pecenica zlatiborac,125g,104,dis
+dimljena slanina zlatiborac,125g,104,dis
+dimljeni vrat zlatiborac,125g,104,dis
+kulen kosmajska,100g,178,idea
+mortadela zlatiborac,125g,118,roda
+panceta kosmajska,100g,309,tempo
+panceta topola,100g,139,tempo
+suva prsuta kosmajska,100g,359,tempo
+suvi govedji ramstek kosmajska,80g,431,idea
+suvi vrat kosmajska,100g,319,tempo
+brancin,1kg,708,univerexport
+losos filet,1kg,1,idea
+orada,1kg,754,univerexport
+pastrmka kalifornijska,1kg,429,idea
+saran,1kg,419,idea
+jagnjetina,1kg,539,roda
+juneca ledja sa kostima,1kg,549,tempo
+juneca plecka bez kostiju,1kg,699,tempo
+juneca rebra,1kg,499,tempo
+juneci but bez kostiju,1kg,719,tempo
+pileca krilca,1kg,189,idea
+pilece grudi,1kg,299,gomex
+pileci batak i karabatak,1kg,249,tempo
+pileci file,1kg,399,tempo
+cevapi,1kg,349,tempo
+pljeskavice,1kg,349,tempo
+rostilj kobasice,1kg,349,tempo
+svinjetina,1kg,339,roda
+svinjska ledja sa kostima,1kg,349,tempo
+svinjska plecka bez kostiju,1kg,369,tempo
+svinjski but bez kostiju,1kg,369,tempo
+svinjski file,1kg,449,tempo
+svinjski kare bez kosti,1kg,449,tempo
+svinjski vrat sa kostima,1kg,349,tempo
+teleca ledja sa kostima,1kg,729,idea
+teleca plecka bez kostiju,1kg,1,dis
+teleci but bez kostiju,1kg,1,dis
+hot grill vakum kobasice zlatiborac,340kg,149,roda
+kobasica carnex grill,280g,119,maxi
+levacki stapici yuhor,220g,335,roda
+virsla amadori zivisnka,250g,124,maxi
+virsla moja pileca ,1kg,239,roda
+virsla poli cocktail,330g,207,roda
+virsle carnex delikates,205g,98,tempo
+virsle carnex delikates,800g,344,idea
+virsle carnex pilino,205g,89,idea
+virsle carnex smazalice,205g,108,tempo
+virsle dakota curece,180g,139,univerexport
+virsle dakota curece,360g,259,univerexport
+virsle frankfurt,100g,49,idea
+virsle gudi neoplanta,205g,89,univerexport
+virsle neoplanta pipi pileca,205g,89,univerexport
+virsle neoplanta pipi porodicno pakovanje,510g,225,roda
+virsle perutnina ptuj,100g,49,idea
+virsle perutnina ptuj,200g,94,maxi
+virsle poli mini,130g,79,dis
+virsle poli pileca,330g,191,roda
+virsle wudy coctail,240g,199,univerexport
+virsle wudy family,500g,199,dis
+virsle wudy zivinska,100g,67,tempo
+virsle wudy zivinska,1kg,349,univerexport
+virsle wudy zivinska,250g,99,tempo
+virsle wudy zivinska sir,150g,119,dis
+virsle yuhor pileca,200g,89,dis
+virsle yuhor specijal,200g,89,dis
+virsle zlatiborac delikates,200g,120,univerexport
+virsle zlatiborac hot dog,240g,119,tempo
+virsle zlatiborac junece,200g,124,roda
+virsle zlatiborac pilece,200g,109,tempo
