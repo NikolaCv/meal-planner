@@ -17,6 +17,6 @@ private:
 	std::vector<product> products;
 public:
 	void get_products(std::string file_name);
-	void get_recipes(std::string file_name);
+	void get_recipes(std::string dir_name);
 	void print_products();
 };

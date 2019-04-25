@@ -2,6 +2,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <errno.h>
+#include "dirent.h"
 
 void meal_planner::get_products(std::string file_name)
 {
@@ -26,9 +28,11 @@ void meal_planner::get_products(std::string file_name)
 
 		products.push_back(temp);
 	}
+
+	file.close();
 }
 
-void meal_planner::get_recipes(std::string file_name)
+void meal_planner::get_recipes(std::string dir_name)
 {
 }
 

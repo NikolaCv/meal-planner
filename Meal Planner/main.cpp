@@ -9,9 +9,9 @@ int main()
 {
 	meal_planner meals;
 
-	std::string product_file = "input.txt";
+	std::string product_file_info = "Products/input.txt";
 
-	meals.get_products(product_file);
+	meals.get_products(product_file_info);
 
 	meals.print_products();
 
