@@ -1,2 +1,4 @@
-﻿  main.cpp
+﻿  meal_planner.cpp
+c:\users\nikola\documents\github\meal-planner\meal planner\meal_planner.cpp(79): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\nikola\documents\github\meal-planner\meal planner\meal_planner.cpp(47): warning C4101: 'meal_dir': unreferenced local variable
   Meal Planner.vcxproj -> C:\Users\Nikola\Documents\GitHub\Meal-Planner\x64\Debug\Meal Planner.exe
