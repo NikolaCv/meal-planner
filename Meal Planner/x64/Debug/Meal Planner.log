@@ -1,0 +1,3 @@
+﻿  meal_planner.cpp
+c:\users\nikola\documents\github\meal-planner\meal planner\meal_planner.cpp(97): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Meal Planner.vcxproj -> C:\Users\Nikola\Documents\GitHub\Meal-Planner\x64\Debug\Meal Planner.exe

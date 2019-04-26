@@ -6,6 +6,7 @@
 #include "dirent.h"
 #include <direct.h>
 #include <algorithm>
+
 /*
 bool smaller_p(const product& a, const product& b)
 {
@@ -13,6 +14,7 @@ bool smaller_p(const product& a, const product& b)
 	return false;
 }
 */
+
 bool smaller_r(const recipe& a, const recipe& b)
 {
 	if (a.price_per_meal < b.price_per_meal) return true;
@@ -24,9 +26,8 @@ void meal_planner::get_products(std::string file_name)
 	std::fstream file;
 	file.open(file_name, std::ios::in);
 
-	std::string data;
-
 	product temp;
+	std::string data;
 
 	while (std::getline(file, temp.name, ','))
 	{
@@ -59,12 +60,19 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 	std::fstream file;
 	std::string data;
 
+#ifdef _WIN32
 	_chdir(dir_name.c_str());
+#elif __linux__
+	chdir(dir_name.c_str());
+#endif
 
 	while ((entry = readdir(root)) != NULL)
 	{
+#ifdef _WIN32
 		_chdir(entry->d_name);
-
+#elif __linux__
+		chdir(entry->d_name);
+#endif
 		file.open(products_file_name, std::ios::in);
 		std::getline(file, data);
 
@@ -100,7 +108,11 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		recipes.push_back(temp);
 
 		file.close();
+#ifdef _WIN32
 		_chdir("..");
+#elif __linux__
+		chdir("..");
+#endif
 	}
 
 	std::sort(recipes.begin(), recipes.end(), smaller_r);
