@@ -1,3 +1,12 @@
 10
-rebra,1500
-pasulj,2000
+crni luk,100,g
+sargarepa,50,g
+bela sargarepa,25,g
+pasulj,500,g
+rebra,225,g
+biber,5,g
+so,5,g
+vegeta,5,g
+aleva paprika,10,g
+brasno,10,g
+ulje,30,ml
