@@ -1,11 +1,18 @@
 #include "meal_planner.h"
+#include <string.h>
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <errno.h>
 #include "dirent.h"
-#include <direct.h>
 #include <algorithm>
+
+#ifdef _WIN32
+#include 
+
+#elif __linux__
+#include <unistd.h>
+#endif
 
 /*
 bool smaller_p(const product& a, const product& b)
@@ -108,6 +115,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		recipes.push_back(temp);
 
 		file.close();
+
 #ifdef _WIN32
 		_chdir("..");
 #elif __linux__
