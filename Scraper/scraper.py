@@ -27,7 +27,7 @@ for kategorija in kategorije:
 prodavnice = ["IDEA", "Gomex", "Maxi", "Univerexport", "Tempo", "DIS", "Roda","LIDL"]
 
 # Izvlacenje informacija za artikle
-baza = open("baza_cena.txt", "w+")
+baza = open("database.txt", "w+")
 for namirnica in namirnice:
 	stranica = 1
 	# Menjanje stranica
@@ -54,7 +54,7 @@ for namirnica in namirnice:
 						minprodavnica = prodavnica
 						mincena = cena
 				prodavnica+= 1
-			baza.write(ime.lower() + "," + mera.lower().replace(" ",",") + "," + str(mincena).lower() + "," + prodavnice[minprodavnica].lower() + "\r\n")
+			baza.write(ime.lower() + "\t" + mera.lower().replace(" ","\t") + "\t" + str(mincena).lower() + "\t" + prodavnice[minprodavnica].lower() + "\r\n")
 		stranica+= 1
 
 baza.close()
