@@ -44,7 +44,6 @@ void meal_planner::get_products(std::string file_name)
 
 	while (std::getline(file, temp.name, ','))
 	{
-		std::cout << temp.name;
 		std::getline(file, data, ',');
 		temp.amount = std::stoi(data);
 
@@ -52,14 +51,19 @@ void meal_planner::get_products(std::string file_name)
 
 		std::getline(file, data, ',');
 		temp.price = std::stof(data);
-
+		
 		std::getline(file, temp.shop);
-
 		products.push_back(temp);
 	}
-
 	//std::sort(products.begin(), products.end(), smaller_p);
 	file.close();
+
+#ifdef _WIN32
+	_chdir("Meal Planner");
+#elif __linux__
+	chdir("Meal Planner");
+#endif
+
 }
 
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
@@ -69,7 +73,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 #elif __linux__
 	chdir("..");
 #endif
-
+	
 	DIR *root = opendir(dir_name.c_str());
 	dirent *entry;
 
