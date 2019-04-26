@@ -42,14 +42,15 @@ for namirnica in namirnice:
 			except AttributeError:
 				continue
 			mera = produkt.find("div", {"class":re.compile("text-center")}).get_text()
-			mera=format(mera)
+			#mera=format(mera)
 			mincena = 10000000
 			prodavnica = 0
 			minprodavnica = 0
 			for cena in produkt.findAll("div", {"class":re.compile("^price")}):
-				cena = re.findall("\d+,?\d*", cena.get_text())
+				cena = re.findall("[\d\.,]+", cena.get_text())
 				if len(cena) != 0:
-					cena = int(float(cena[0].replace(",", ".")))
+					cena=cena[0].replace(".","")
+					cena = int(float(cena.replace(",", ".")))
 					if cena < mincena:
 						minprodavnica = prodavnica
 						mincena = cena

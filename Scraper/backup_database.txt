@@ -632,27 +632,27 @@ ulje dijamant omegol 1l	1	l	199	maxi
 ulje iskon 1l	1	l	109	dis
 ulje vital 1l	1	l	104	dis
 ulje robna marka 1l	1	l	92	tempo
-maslinovo ulje carapelli 1l	1	l	1	idea
-maslinovo ulje monini extra 2x1l	2	l	3	idea
-maslinovo ulje monini extra 500ml	500	ml	1	idea
-maslinovo ulje monini extra vergine 0,75l	0.75	l	1	maxi
-maslinovo ulje monini extra virgin 1l	1	l	1	idea
-maslinovo ulje olitalia extra virgine 1l	1	l	1	idea
+maslinovo ulje carapelli 1l	1	l	899	gomex
+maslinovo ulje monini extra 2x1l	2	l	3099	maxi
+maslinovo ulje monini extra 500ml	500	ml	999	tempo
+maslinovo ulje monini extra vergine 0,75l	0.75	l	679	dis
+maslinovo ulje monini extra virgin 1l	1	l	899	maxi
+maslinovo ulje olitalia extra virgine 1l	1	l	1144	dis
 maslinovo ulje ybarra 1l	1	l	899	roda
 maslinovo ulje ybarra 250ml	250	ml	319	gomex
 maslinovo ulje ybarra 500ml	500	ml	678	roda
-ulje carapelli od koštica grožđa 0,75l	0.75	l	1	roda
-ulje monini od koštica grožđa 1l	1	l	1	maxi
-ulje olitalia od koštica grožđa 1l	1	l	1	idea
+ulje carapelli od koštica grožđa 0,75l	0.75	l	1017	roda
+ulje monini od koštica grožđa 1l	1	l	1203	tempo
+ulje olitalia od koštica grožđa 1l	1	l	769	tempo
 ulje olitalia od koštica grožđa 500ml	500	ml	489	roda
 palmino ulje dijamant ulje za prženje 3l	3	l	529	dis
-palmino ulje olitalia za prženje 5l	5	l	1	tempo
+palmino ulje olitalia za prženje 5l	5	l	1885	tempo
 kokosovo ulje granum 220ml	220	ml	483	univerexport
-kokosovo ulje granum 600ml	600	ml	1	maxi
+kokosovo ulje granum 600ml	600	ml	949	roda
 kokosovo ulje granum organic 220ml	220	ml	457	dis
 maslinovo ulje zucchi od komine 1l 	1	l	393	dis
 maslinovo ulje robna marka 1l	1	l	499	roda
-ulje zucchi od koštica grožđa 1l	1	l	1	maxi
+ulje zucchi od koštica grožđa 1l	1	l	599	univerexport
 biber kotanyi beli luk staklo 70g	70	g	239	maxi
 biber kotanyi beli mleveni 17g	17	g	86	tempo
 biber kotanyi crni mleveni kesica 17g	17	g	86	tempo
@@ -1016,42 +1016,42 @@ feta dodoni 200g	200	g	387	roda
 feta dodoni 400g	400	g	775	roda
 feta grekos 45%mm 250g	250	g	129	univerexport
 feta grekos 500g	500	g	239	gomex
-feta grekos 900g	900	g	3	dis
+feta grekos 900g	900	g	445	roda
 feta mlekara šabac 250g	250	g	127	idea
 feta mlekara šabac 45%mm 450g	450	g	223	idea
 feta mlekara šabac 950g	950	g	299	tempo
 feta president somborska 250g	250	g	119	maxi
 feta president somborska 500g	500	g	219	maxi
 feta president somborska 900g	900	g	359	maxi
-bajuval paladin 1kg	1	kg	1	idea
+bajuval paladin 1kg	1	kg	949	roda
 biser pizza mozzarella 450g	450	g	464	roda
-cheddar paladin 1kg	1	kg	1	maxi
+cheddar paladin 1kg	1	kg	999	idea
 edamer belje 1kg	1	kg	778	univerexport
-edamer biser 45%mm 1kg	1	kg	1	idea
+edamer biser 45%mm 1kg	1	kg	799	univerexport
 edamer imlek edamac extra 1kg	1	kg	921	roda
-edamer paladin 1kg	1	kg	1	idea
+edamer paladin 1kg	1	kg	980	dis
 edamer president emmental 250g	250	g	489	tempo
-edamer vaša mlekara 1kg	1	kg	1	maxi
+edamer vaša mlekara 1kg	1	kg	749	tempo
 gauda belje 1kg	1	kg	778	univerexport
-gauda biser 45%mm 1kg	1	kg	1	idea
-gauda imlek 45%mm 1kg	1	kg	1	univerexport
-gauda paladin 1kg	1	kg	1	idea
-gauda vaša mlekara 1kg	1	kg	1	idea
-iriški sir imlek 1kg	1	kg	1	idea
-kačkavalj biser 45%mm 1kg	1	kg	1	maxi
+gauda biser 45%mm 1kg	1	kg	799	maxi
+gauda imlek 45%mm 1kg	1	kg	940	roda
+gauda paladin 1kg	1	kg	799	maxi
+gauda vaša mlekara 1kg	1	kg	799	gomex
+iriški sir imlek 1kg	1	kg	849	dis
+kačkavalj biser 45%mm 1kg	1	kg	899	dis
 mozzarella biser 450g	450	g	409	dis
 mozzarella galbani 125g	125	g	143	tempo
 mozzarella galbani maxi 200g	200	g	272	tempo
 mozzarella galbani mini 150g	150	g	256	roda
 mozzarella meggle 125g	125	g	159	dis
-pivnički sir imlek 1kg	1	kg	1	idea
-pizza mozzarela vaša mlekara 1kg	1	kg	1	univerexport
-tilsiter paladin 1kg	1	kg	1	idea
-trapist biser 45%mm 1kg	1	kg	1	maxi
-trapist biser karavan dimljeni 45%mm 1kg	1	kg	1	idea
-trapist imlek 45%mm 1kg	1	kg	1	univerexport
-trapist vaša mlekara 1kg	1	kg	1	maxi
-trappista paladin 1kg	1	kg	1	idea
+pivnički sir imlek 1kg	1	kg	940	roda
+pizza mozzarela vaša mlekara 1kg	1	kg	1172	univerexport
+tilsiter paladin 1kg	1	kg	1151	roda
+trapist biser 45%mm 1kg	1	kg	789	dis
+trapist biser karavan dimljeni 45%mm 1kg	1	kg	899	univerexport
+trapist imlek 45%mm 1kg	1	kg	949	tempo
+trapist vaša mlekara 1kg	1	kg	599	roda
+trappista paladin 1kg	1	kg	749	tempo
 edamer robna marka 1kg	1	kg	10000000	idea
 gauda robna marka 1kg	1	kg	549	lidl
 mladi sir mlekara šabac 450g	450	g	182	dis
@@ -1321,42 +1321,42 @@ nar 1kg	1	kg	179	roda
 pomelo 1kg	1	kg	229	roda
 pomorandža 1kg	1	kg	79	idea
 kobasica zlatiborac čajna goveđa 320g	320	g	335	roda
-kobasica zlatiborac čajna rinfuz 1kg	1	kg	1	gomex
-kobasica zlatiborac goveđa čajna 1kg	1	kg	1	idea
-čajna kobasica robna marka 1kg	1	kg	1	maxi
-budimska carnex 1kg	1	kg	1	idea
+kobasica zlatiborac čajna rinfuz 1kg	1	kg	849	idea
+kobasica zlatiborac goveđa čajna 1kg	1	kg	1085	maxi
+čajna kobasica robna marka 1kg	1	kg	549	lidl
+budimska carnex 1kg	1	kg	1119	tempo
 budimska carnex 270g	270	g	342	roda
-budimska neoplanta 1kg	1	kg	1	idea
+budimska neoplanta 1kg	1	kg	999	tempo
 budimska neoplanta 305g	305	g	349	tempo
-budimska yuhor 1kg	1	kg	1	idea
-čajna kobasica carnex 1kg	1	kg	1	idea
+budimska yuhor 1kg	1	kg	1299	tempo
+čajna kobasica carnex 1kg	1	kg	799	tempo
 čajna kobasica carnex 290g	290	g	249	tempo
-čajna kobasica neoplanta 1kg	1	kg	1	idea
+čajna kobasica neoplanta 1kg	1	kg	1215	tempo
 čajna kobasica neoplanta 295g	295	g	307	roda
-čajna kobasica topola 1kg	1	kg	1	maxi
-čajna kobasica yuhor 1kg	1	kg	1	idea
+čajna kobasica topola 1kg	1	kg	1039	tempo
+čajna kobasica yuhor 1kg	1	kg	799	maxi
 čajna kobasica yuhor 300g	300	g	249	tempo
-izletnička topola 1kg	1	kg	1	idea
-kobasica neoplanta fruštuk 1kg	1	kg	1	maxi
-kobasica neoplanta fruštuk ljuta 1kg	1	kg	1	maxi
-kobasica neoplanta slavska 1kg	1	kg	1	maxi
-kraljevska kobasica zlatiborac 1kg	1	kg	1	maxi
-kulen carnex 1kg	1	kg	1	univerexport
+izletnička topola 1kg	1	kg	1149	maxi
+kobasica neoplanta fruštuk 1kg	1	kg	749	idea
+kobasica neoplanta fruštuk ljuta 1kg	1	kg	749	idea
+kobasica neoplanta slavska 1kg	1	kg	1199	tempo
+kraljevska kobasica zlatiborac 1kg	1	kg	1249	maxi
+kulen carnex 1kg	1	kg	899	maxi
 kulen carnex 270g	270	g	327	roda
-kulen neoplanta 1kg	1	kg	1	idea
+kulen neoplanta 1kg	1	kg	1314	dis
 kulen neoplanta 305g	305	g	380	roda
-kulen topola 1kg	1	kg	1	idea
-njeguška topola 1kg	1	kg	1	idea
-piknik topola 1kg	1	kg	1	idea
-sendvič salama zlatiborac 1kg	1	kg	1	tempo
-sremska topola 1kg	1	kg	1	idea
-kulen yuhor 1kg	1	kg	1	idea
-kulen zlatiborac goveđi rinfuz 1kg	1	kg	1	idea
+kulen topola 1kg	1	kg	999	tempo
+njeguška topola 1kg	1	kg	1314	dis
+piknik topola 1kg	1	kg	999	maxi
+sendvič salama zlatiborac 1kg	1	kg	875	maxi
+sremska topola 1kg	1	kg	899	maxi
+kulen yuhor 1kg	1	kg	989	dis
+kulen zlatiborac goveđi rinfuz 1kg	1	kg	1300	univerexport
 kulen zlatiborac goveđi vakuum 100g	100	g	127	roda
-kulen zlatiborac rinfuz 1kg	1	kg	1	maxi
+kulen zlatiborac rinfuz 1kg	1	kg	899	gomex
 kulen zlatiborac vakuum 100g	100	g	124	dis
-kulen robna marka 1kg	1	kg	1	idea
-sudžuk zlatiborac vakuum 1kg	1	kg	1	maxi
+kulen robna marka 1kg	1	kg	1099	idea
+sudžuk zlatiborac vakuum 1kg	1	kg	1090	maxi
 budimska carnex 100g	100	g	132	tempo
 budimska yuhor 100g	100	g	129	dis
 izletnička topola 100g	100	g	175	tempo
@@ -1373,7 +1373,7 @@ narezak carnex mesni 100g	100	g	74	gomex
 narezak carnex mesni 150g	150	g	109	tempo
 narezak neoplanta goveđi 150g	150	g	111	dis
 narezak neoplanta mesni 150g	150	g	109	roda
-narezak yuhor goveđi 150g	150	g	1	dis
+narezak yuhor goveđi 150g	150	g	109	tempo
 narezak yuhor mesni 150g	150	g	108	dis
 sardina la perla 125g	125	g	89	gomex
 sardina stari beograd 100g	100	g	84	dis
@@ -1453,20 +1453,20 @@ duvan čvarci bilbi ljuti 200g	200	g	249	tempo
 duvan čvarci zlatiborac 150g	150	g	179	tempo
 kraški vrat topola 100g	100	g	252	univerexport
 pečenica carnex 1kg	1	kg	649	roda
-pečenica neoplanta dimljena vakuum 1kg	1	kg	1	maxi
+pečenica neoplanta dimljena vakuum 1kg	1	kg	599	tempo
 pečenica zlatiborac svinjska vakuum 100g	100	g	269	idea
-pečenica zlatiborac svinjska vakuum 1kg	1	kg	2	maxi
+pečenica zlatiborac svinjska vakuum 1kg	1	kg	2759	tempo
 svinjska pečenica topola 100g	100	g	144	idea
-pršuta krainer bez koske i kože 1kg	1	kg	1	tempo
-pršuta zlatiborac goveđa rinfuz 1kg	1	kg	3	univerexport
+pršuta krainer bez koske i kože 1kg	1	kg	1999	tempo
+pršuta zlatiborac goveđa rinfuz 1kg	1	kg	3809	univerexport
 pršuta zlatiborac goveđa vakuum 100g	100	g	319	roda
 pršuta zlatiborac svinjska vakuum 100g	100	g	239	roda
 suva svinjska pršuta carnex 100g	100	g	199	tempo
 topolski pršut topola 100g	100	g	268	roda
 pančeta carnex 100g	100	g	151	tempo
-pančeta carnex 1kg	1	kg	1	idea
+pančeta carnex 1kg	1	kg	1714	univerexport
 slanina zlatiborac tanka vakuum 100g	100	g	194	idea
-slanina zlatiborac tanka vakuum 1kg	1	kg	1	idea
+slanina zlatiborac tanka vakuum 1kg	1	kg	1899	idea
 kobasica carnex alpska 1kg	1	kg	415	tempo
 kobasica carnex alpska 350g	350	g	151	tempo
 kobasica neoplanta alpska 1kg	1	kg	399	idea
@@ -1475,10 +1475,10 @@ kobasica yuhor alpska 1kg	1	kg	479	roda
 kobasica yuhor alpska 350g	350	g	152	tempo
 kobasica zlatiborac alpska 1kg	1	kg	456	dis
 kobasica zlatiborac alpska 350g	350	g	159	idea
-gran podere ćureća prsa 1kg	1	kg	1	idea
-salama zlatiborac goveđa rinfuz 1kg	1	kg	1	idea
+gran podere ćureća prsa 1kg	1	kg	949	maxi
+salama zlatiborac goveđa rinfuz 1kg	1	kg	1344	univerexport
 salama zlatiborac goveđa vakuum 100g	100	g	131	roda
-delikates kare carnex u omotu 1kg	1	kg	1	maxi
+delikates kare carnex u omotu 1kg	1	kg	743	tempo
 delikates kare carnex u omotu 350g	350	g	285	tempo
 dimljena slanina carnex u omotu 1kg	1	kg	612	tempo
 kare u omotu zlatiborac 1kg	1	kg	863	roda
@@ -1515,12 +1515,12 @@ pileće grudi neoplanta 1kg	1	kg	812	dis
 pileće grudi neoplanta 350g	350	g	239	maxi
 salama gala 1kg	1	kg	379	idea
 salama gala 500g	500	g	189	univerexport
-salama neoplanta kuvani pileći file 1kg	1	kg	1	idea
+salama neoplanta kuvani pileći file 1kg	1	kg	724	dis
 salama yuhor pileća posebna 1kg	1	kg	279	tempo
 salama yuhor pileća posebna 350g	350	g	99	tempo
 pileća prsa zlatiborac 1kg	1	kg	549	maxi
 pileća prsa zlatiborac 350g	350	g	236	idea
-salama zlatiborac domaća rinfuz 1kg	1	kg	1	idea
+salama zlatiborac domaća rinfuz 1kg	1	kg	1261	dis
 salama zlatiborac domaća vakuum 100g	100	g	127	idea
 narezak topola sendvič 1kg	1	kg	524	maxi
 pica šunka carnex 1kg	1	kg	462	tempo
@@ -1529,7 +1529,7 @@ stišnjena šunka yuhor 1kg	1	kg	549	tempo
 stišnjena šunka yuhor 350g	350	g	199	tempo
 stišnjena šunka zlatiborac 1kg	1	kg	599	maxi
 stišnjena šunka zlatiborac 350g	350	g	235	idea
-šunka carnex specijal kuvana 1kg	1	kg	1	idea
+šunka carnex specijal kuvana 1kg	1	kg	639	dis
 šunka carnex stišnjena 350g	350	g	235	tempo
 šunka carnex stišnjena u crevu 1kg	1	kg	599	roda
 šunka neoplanta stišnjena 1kg	1	kg	599	idea
@@ -1538,8 +1538,8 @@ stišnjena šunka zlatiborac 350g	350	g	235	idea
 šunka neoplanta za pizzu mini 350g	350	g	164	roda
 šunka pik u omotu 1kg	1	kg	649	idea
 šunka pik u omotu 350g	350	g	251	univerexport
-šunka pik zlatna 1kg	1	kg	1	maxi
-šunka yuhor u foliji 1kg	1	kg	1	idea
+šunka pik zlatna 1kg	1	kg	799	tempo
+šunka yuhor u foliji 1kg	1	kg	799	maxi
 salama neoplanta gudi 350g	350	g	129	idea
 salama neoplanta gudi 600g	600	g	239	univerexport
 salama neoplanta gudi posebna 1kg	1	kg	469	roda
@@ -1559,7 +1559,7 @@ suva pršuta kosmajska 100g	100	g	359	tempo
 suvi goveđi ramstek kosmajska 80g	80	g	431	idea
 suvi vrat kosmajska 100g	100	g	319	tempo
 brancin 1kg	1	kg	708	univerexport
-losos filet 1kg	1	kg	1	idea
+losos filet 1kg	1	kg	1899	idea
 orada 1kg	1	kg	754	univerexport
 pastrmka kalifornijska 1kg	1	kg	429	idea
 šaran 1kg	1	kg	419	idea
@@ -1583,8 +1583,8 @@ svinjski file 1kg	1	kg	449	dis
 svinjski kare bez kosti	1	kg	399	gomex
 svinjski vrat sa kostima 1kg	1	kg	349	dis
 teleća leđa sa kostima 1kg	1	kg	729	idea
-teleća plećka bez kostiju 1kg	1	kg	1	roda
-teleći but bez kostiju 1kg	1	kg	1	roda
+teleća plećka bez kostiju 1kg	1	kg	1049	roda
+teleći but bez kostiju 1kg	1	kg	1199	roda
 hot grill vakum kobasice zlatiborac 340g	340	kg	149	roda
 kobasica carnex grill 280g	280	g	119	maxi
 levački štapići yuhor 220g	220	g	335	roda
