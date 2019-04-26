@@ -15,18 +15,48 @@
 #include <unistd.h>
 #endif
 
-
 bool bigger_amount(const product& a, const product& b)
 {
 	if (a.amount > b.amount) return true;
 	return false;
 }
 
-
 bool smaller_r(const recipe& a, const recipe& b)
 {
 	if (a.price_per_meal < b.price_per_meal) return true;
 	return false;
+}
+
+product change_unit_p(product temp)
+{
+	if (temp.unit.compare("kg"))
+	{
+		temp.amount *= 1000;
+		temp.unit.assign("g");
+	}
+	else
+		if (temp.unit.compare("l"))
+		{
+			temp.amount *= 1000;
+			temp.unit.assign("ml");
+		}
+	return temp;
+}
+
+std::string change_unit(std::string data, float* amount_to_buy)
+{
+	if (data.compare("kg"))
+	{
+		*amount_to_buy *= 1000;
+		data.assign("g");
+	}
+	else
+		if (data.compare("l"))
+		{
+			*amount_to_buy *= 1000;
+			data.assign("ml");
+		}
+	return data;
 }
 
 void meal_planner::get_products(std::string file_name)
@@ -50,6 +80,8 @@ void meal_planner::get_products(std::string file_name)
 		
 		std::getline(file, temp.unit, '\t');
 
+		temp = change_unit_p(temp);
+
 		std::getline(file, data, '\t');
 		temp.price = std::stof(data);
 		
@@ -57,7 +89,7 @@ void meal_planner::get_products(std::string file_name)
 
 		products.push_back(temp);
 	}
-	//std::sort(products.begin(), products.end(), smaller_p);
+
 	file.close();
 
 #ifdef _WIN32
@@ -65,7 +97,6 @@ void meal_planner::get_products(std::string file_name)
 #elif __linux__
 	chdir("Meal Planner");
 #endif
-
 }
 
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
@@ -107,7 +138,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		temp.num_of_meals = std::stof(data);
 		temp.price = 0;
 
-		while (std::getline(file, data, ','))			//mleko sveze,100,g
+		while (std::getline(file, data, ','))			//product name
 		{
 			std::vector<std::string> product_name;
 			std::stringstream stream(data);
@@ -129,8 +160,12 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 			
 			std::sort(list.begin(), list.end(), bigger_amount);
 
-			std::getline(file, data, ',');
+			std::getline(file, data, ',');				//amount
 			float amount_to_buy = std::stof(data);
+
+			std::getline(file, data);					//unit
+			
+			data = change_unit(data, &amount_to_buy);
 			
 			int index = 0;
 			while (index < list.size() && amount_to_buy > 0)
@@ -156,11 +191,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 			}
 
 			if (amount_to_buy > 0 && index > 0)
-			{
 				temp.price += list[index - 1].price;
-			}
-
-			std::getline(file, data);
 		}
 		
 		temp.price_per_meal = temp.price / temp.num_of_meals;
@@ -194,14 +225,3 @@ void meal_planner::print_recipes()
 		std::cout << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << "\t" << recipes[i].price_per_meal << std::endl;
 }
 
-void meal_planner::eat_cheap(int days, int people)
-{
-	
-}
-
-
-/*
-
-
-
-*/
