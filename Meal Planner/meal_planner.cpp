@@ -27,31 +27,15 @@ bool smaller_r(const recipe& a, const recipe& b)
 	return false;
 }
 
-product change_unit_p(product temp)
-{
-	if (temp.unit.compare("kg"))
-	{
-		temp.amount *= 1000;
-		temp.unit.assign("g");
-	}
-	else
-		if (temp.unit.compare("l"))
-		{
-			temp.amount *= 1000;
-			temp.unit.assign("ml");
-		}
-	return temp;
-}
-
 std::string change_unit(std::string data, float* amount_to_buy)
 {
-	if (data.compare("kg"))
+	if (!data.compare("kg"))
 	{
 		*amount_to_buy *= 1000;
 		data.assign("g");
 	}
 	else
-		if (data.compare("l"))
+		if (!data.compare("l"))
 		{
 			*amount_to_buy *= 1000;
 			data.assign("ml");
@@ -79,8 +63,8 @@ void meal_planner::get_products(std::string file_name)
 		temp.amount = std::stof(data);
 		
 		std::getline(file, temp.unit, '\t');
-
-		temp = change_unit_p(temp);
+		
+		temp.unit = change_unit(temp.unit,&temp.amount);
 
 		std::getline(file, data, '\t');
 		temp.price = std::stof(data);
@@ -209,6 +193,41 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 	std::sort(recipes.begin(), recipes.end(), smaller_r);
 }
 
+void meal_planner::get_inventory_items(std::string file_name)
+{
+#ifdef _WIN32
+	_chdir("..");
+#elif __linux__
+	chdir("..");
+#endif
+
+	std::fstream file;
+	file.open(file_name, std::ios::in);
+
+	inventory_items temp;
+	std::string data;
+
+	while (std::getline(file, temp.name, ','))
+	{
+		std::getline(file, data, ',');
+		temp.amount = std::stof(data);
+
+		std::getline(file, temp.unit);
+
+		temp.unit = change_unit(temp.unit,&temp.amount);
+
+		inventory.push_back(temp);
+	}
+
+	file.close();
+
+#ifdef _WIN32
+	_chdir("Meal Planner");
+#elif __linux__
+	chdir("Meal Planner");
+#endif
+}
+
 void meal_planner::print_products()
 {
 	std::cout << "Products" << std::endl;
@@ -223,5 +242,13 @@ void meal_planner::print_recipes()
 	std::cout << "Name" << "\t" << "Price" << "\t" << "Meals" << "\t" << "Price per meal" << std::endl;
 	for (int i = 0; i < recipes.size(); ++i)
 		std::cout << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << "\t" << recipes[i].price_per_meal << std::endl;
+}
+
+void meal_planner::print_inventory()
+{
+	std::cout << "Inventory" << std::endl;
+	std::cout << "Name" << "\t" << "Amount" << "\t" << "Unit" << std::endl;
+	for (int i = 0; i < inventory.size(); ++i)
+		std::cout << inventory[i].name << "\t" << inventory[i].amount << "\t" << inventory[i].unit << std::endl;
 }
 

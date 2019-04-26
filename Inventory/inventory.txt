@@ -1,0 +1,5 @@
+mleko,1.5,l
+brasno,1.8,kg
+ulje,1.5,l
+kuhinjska so,400,g
+biber,350,g
