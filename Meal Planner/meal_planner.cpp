@@ -83,6 +83,14 @@ void meal_planner::get_products(std::string file_name)
 #endif
 }
 
+/*
+lista namirnica potrebnih za recept u struct recipe
+odvoji racunanje cene iz get recipes u get recipe prices npr.
+u racunanje cene ukljuci inventory za svako jelo posebno bez menjanja inventorija
+posle toga uz menjanje inventorija, ali kako tacno, sta je cilj
+*/
+
+
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
 {
 #ifdef _WIN32
