@@ -15,13 +15,13 @@
 #include <unistd.h>
 #endif
 
-/*
-bool smaller_p(const product& a, const product& b)
+
+bool bigger_amount(const product& a, const product& b)
 {
-	if (a.price_per_meal < b.price_per_meal) return true;
+	if (a.amount > b.amount) return true;
 	return false;
 }
-*/
+
 
 bool smaller_r(const recipe& a, const recipe& b)
 {
@@ -46,8 +46,8 @@ void meal_planner::get_products(std::string file_name)
 	while (std::getline(file, temp.name, '\t'))
 	{
 		std::getline(file, data, '\t');
-		temp.amount = std::stoi(data);
-
+		temp.amount = std::stof(data);
+		
 		std::getline(file, temp.unit, '\t');
 
 		std::getline(file, data, '\t');
@@ -114,43 +114,55 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 			
 			while (std::getline(stream, data, ' '))
 				product_name.push_back(data);
-				
+
 			std::vector<product> list;
-		
-			bool t;
 
 			for (int i = 0; i < products.size(); ++i)
 			{
-				t = true;
+				bool t = true;
 				for (int j = 0; j < product_name.size(); ++j)
 					if(!strstr(products[i].name.c_str(),product_name[j].c_str()))
 						t = false;
 				if(t)
 					list.push_back(products[i]);
 			}
-				
-
+			
+			std::sort(list.begin(), list.end(), bigger_amount);
 
 			std::getline(file, data, ',');
-
-			/*if (it == products.end())
+			float amount_to_buy = std::stof(data);
+			
+			int index = 0;
+			while (index < list.size() && amount_to_buy > 0)
 			{
-				temp.price = -1;
-				break;
+				int number = 1;
+				bool t = false;
+				if (list[index].amount < amount_to_buy)
+				{
+					t = true;
+					while (number * list[index].amount < amount_to_buy)
+						number++;
+					number--;
+				}
+				else
+					t = false;
+
+				if (t)
+				{
+					amount_to_buy -= number * list[index].amount;
+					temp.price += number * list[index].price;
+				}
+				index++;
 			}
-			else
+
+			if (amount_to_buy > 0 && index > 0)
 			{
-				//int ind = std::distance(products.begin(), it);
-				int number = 0;
+				temp.price += list[index - 1].price;
+			}
 
-			//	while (number * products[ind].amount < std::stof(data))
-			//		number++;
-
-				temp.price += number * products[ind].price;
-			}*/
 			std::getline(file, data);
 		}
-
+		
 		temp.price_per_meal = temp.price / temp.num_of_meals;
 		recipes.push_back(temp);
 

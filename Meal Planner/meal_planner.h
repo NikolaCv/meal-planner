@@ -5,7 +5,7 @@
 struct product
 {
 	std::string name;
-	int amount;
+	float amount;
 	std::string unit;
 	float price;
 	std::string shop;
