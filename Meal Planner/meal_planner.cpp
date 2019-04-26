@@ -30,14 +30,21 @@ bool smaller_r(const recipe& a, const recipe& b)
 
 void meal_planner::get_products(std::string file_name)
 {
+#ifdef _WIN32
+	_chdir("..");
+#elif __linux__
+	chdir("..");
+#endif
+	
 	std::fstream file;
 	file.open(file_name, std::ios::in);
-
+	
 	product temp;
 	std::string data;
 
 	while (std::getline(file, temp.name, ','))
 	{
+		std::cout << temp.name;
 		std::getline(file, data, ',');
 		temp.amount = std::stoi(data);
 
@@ -57,6 +64,12 @@ void meal_planner::get_products(std::string file_name)
 
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
 {
+#ifdef _WIN32
+	_chdir("..");
+#elif __linux__
+	chdir("..");
+#endif
+
 	DIR *root = opendir(dir_name.c_str());
 	dirent *entry;
 
