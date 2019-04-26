@@ -1,11 +1,20 @@
 #include "meal_planner.h"
+#include <string.h>
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <errno.h>
 #include "dirent.h"
-#include <direct.h>
 #include <algorithm>
+
+#ifdef __linux__
+#include <unistd.h>
+
+#elif _WIN32
+#include <direct.h>
+#endif
+
+
 /*
 bool smaller_p(const product& a, const product& b)
 {
@@ -49,6 +58,11 @@ void meal_planner::get_products(std::string file_name)
 
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
 {
+//#ifdef __linux__
+//	char rootdir[50];
+//	char dirchange[200];
+//	strcpy(rootdir,dir_name.c_str());
+//#endif
 	DIR *root = opendir(dir_name.c_str());
 	dirent *entry;
 
@@ -58,13 +72,25 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 	recipe temp;
 	std::fstream file;
 	std::string data;
-
+	
+#ifdef _WIN32
 	_chdir(dir_name.c_str());
-
+#elif __linux__
+	chdir(dir_name.c_str());
+#endif
 	while ((entry = readdir(root)) != NULL)
-	{
+	{	
+	
+	
+#ifdef _WIN32
 		_chdir(entry->d_name);
-
+#elif __linux__
+	//	strcpy(dirchange,rootdir);
+	//	strcat(dirchange,"/");
+	//	strcat(dirchange,entry->d_name);
+	//	entry = readdir(opendir(dirchange));
+		chdir(entry->d_name);
+#endif
 		file.open(products_file_name, std::ios::in);
 		std::getline(file, data);
 
@@ -100,7 +126,13 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		recipes.push_back(temp);
 
 		file.close();
+	
+#ifdef _WIN32
 		_chdir("..");
+#elif __linux__
+		//entry = readdir(opendir(rootdir));
+		chdir("..");
+#endif
 	}
 
 	std::sort(recipes.begin(), recipes.end(), smaller_r);
