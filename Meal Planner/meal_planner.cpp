@@ -53,6 +53,7 @@ void meal_planner::get_products(std::string file_name)
 		temp.price = std::stof(data);
 		
 		std::getline(file, temp.shop);
+
 		products.push_back(temp);
 	}
 	//std::sort(products.begin(), products.end(), smaller_p);
