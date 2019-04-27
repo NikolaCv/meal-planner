@@ -7,7 +7,7 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
-#include <cctype>
+#include <set>
 
 #ifdef _WIN32
 #include <direct.h>
@@ -25,6 +25,12 @@ bool better_value(const product& a, const product& b)
 bool smaller_r(const recipe& a, const recipe& b)
 {
 	if (a.price_per_meal < b.price_per_meal) return true;
+	return false;
+}
+
+bool cheapest(const product& a, const product& b)
+{
+	if (a.price < b.price) return true;
 	return false;
 }
 
@@ -131,7 +137,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 
 		temp.name = entry->d_name;
 		temp.num_of_meals = std::stof(data);
-		temp.price = -1;
+		temp.price = 0;
 		temp.price_per_meal = -1;
 
 		item temp_item;
@@ -234,11 +240,17 @@ void meal_planner::calculate_recipe_prices()
 			std::sort(list.begin(), list.end(), better_value);
 			float amount_to_buy = recipes[i].items[j].amount;
 
-			/*for (int i = 0; i < list.size(); ++i)
+		/*	for (int i = 0; i < list.size(); ++i)
 				std::cout << list[i].name << "\t" << list[i].amount << list[i].unit << "\t"
 				<< list[i].price << "\t" << list[i].shop << std::endl;
 				*/
+			std::vector<int> best_buy;
 			int index = 0;
+			float curr_price = 0;
+
+			//this while loop should be optimized and written better
+			//too tired to change it now
+			//-----------------------------------------------------------------------------------------
 			while (index < list.size() && amount_to_buy > 0)
 			{
 				int number = 1;
@@ -253,18 +265,48 @@ void meal_planner::calculate_recipe_prices()
 				else
 					t = false;
 
+				if(amount_to_buy - list[index].amount > 0)
+					best_buy.push_back(curr_price + (number + 1) * list[index].price);
+				else
+					best_buy.push_back(curr_price + number * list[index].price);
+
 				if (t)
 				{
 					//std::cout << list[index].name << "----\t" << list[index].price << std::endl;
 					amount_to_buy -= number * list[index].amount;
-					recipes[i].price += number * list[index].price;
+					curr_price += number * list[index].price;
+					//std::cout << curr_price << "\t" << number << "\t" << list[index].price << std::endl;
 				}
 				index++;
 			}
 
+		//	for (int l = 0; l < best_buy.size(); ++l)
+		//		std::cout << best_buy[l] << "omfg---" << std::endl;
+
 			if (amount_to_buy > 0 && index > 0)
-				recipes[i].price += list[index - 1].price;
+				curr_price += list[index - 1].price;
+
+			if (curr_price == 0 && list.size() > 0)
+			{
+				std::sort(list.begin(), list.end(), cheapest);
+				curr_price = list[0].price;
+			}
+
+
+		//	std::cout << curr_price << std::endl << "price";
+
+			std::sort(best_buy.begin(), best_buy.end());
+
+			if (best_buy.size() > 0 && curr_price > best_buy[0])
+				recipes[i].price += best_buy[0];
+			else
+				recipes[i].price += curr_price;
+
+			//-----------------------------------------------------------------------------------------
+		//	std::cout << recipes[i].price << std::endl;
 		}
+
+		recipes[i].price_per_meal = recipes[i].price / recipes[i].num_of_meals;
 	}
 		
 }
@@ -286,7 +328,7 @@ void meal_planner::print_recipes()
 	{
 		std::cout << recipes[i].name << std::endl;
 		std::cout << "\t" << "Price: " << recipes[i].price << "\t" << "Meals: " << recipes[i].num_of_meals << "\t"
-				  << "Price per meal: " << recipes[i].price << "\t" << std::endl << std::endl;
+				  << "Price per meal: " << recipes[i].price_per_meal << "\t" << std::endl << std::endl;
 
 		for(int j = 0; j < recipes[i].items.size(); ++j)
 			std::cout << recipes[i].items[j].name << "\t" << recipes[i].items[j].amount << recipes[i].items[j].unit << std::endl;

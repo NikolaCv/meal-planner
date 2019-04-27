@@ -9,4 +9,4 @@ kuhinjska so,5,g
 vegeta,5,g
 aleva paprika,10,g
 brasno,10,g
-ulje,30,ml
+ulje dijamant,30,ml
