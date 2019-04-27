@@ -22,8 +22,8 @@ int main()
 	meals.get_recipes(recipes_dir_info, needed_products_file_name);
 	
 	//meals.print_products();
-
-	meals.print_inventory();
+	meals.calculate_recipe_prices();
+	//meals.print_inventory();
 
 	meals.print_recipes();
 

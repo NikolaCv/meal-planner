@@ -2,6 +2,13 @@
 #include <iostream>
 #include <vector>
 
+struct item
+{
+	std::string name;
+	float amount;
+	std::string unit;
+};
+
 struct product
 {
 	std::string name;
@@ -9,21 +16,16 @@ struct product
 	std::string unit;
 	float price;
 	std::string shop;
+	float price_per_amount;
 };
 
 struct recipe
 {
 	std::string name;
+	std::vector<item> items;
 	float price;
 	float num_of_meals;
 	float price_per_meal;
-};
-
-struct inventory_items
-{
-	std::string name;
-	float amount;
-	std::string unit;
 };
 
 class meal_planner
@@ -31,11 +33,12 @@ class meal_planner
 private:
 	std::vector<product> products;
 	std::vector<recipe> recipes;
-	std::vector<inventory_items> inventory;
+	std::vector<item> inventory;
 public:
 	void get_products(std::string file_name);
 	void get_recipes(std::string dir_name, std::string products_file_name);
 	void get_inventory_items(std::string file_name);
+	void calculate_recipe_prices();
 	void print_products();
 	void print_recipes();
 	void print_inventory();

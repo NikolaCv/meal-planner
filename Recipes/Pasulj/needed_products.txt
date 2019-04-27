@@ -1,12 +1,12 @@
 10
-crni luk,0.1,g
-sargarepa,0.05,g
-bela sargarepa,0.025,g
-pasulj,0.5,g
-rebra,0.225,g
-biber,0.005,g
-kuhinjska so,0.005,g
-vegeta,0.005,g
-aleva paprika,0.01,g
-biber,0.01,g
-biber,0.03,ml
+crni luk,100,g
+sargarepa,50,g
+bela sargarepa,25,g
+pasulj,500,g
+rebra,225,g
+biber,5,g
+kuhinjska so,5,g
+vegeta,5,g
+aleva paprika,10,g
+brasno,10,g
+ulje,30,ml
