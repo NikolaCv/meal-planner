@@ -86,6 +86,7 @@ void meal_planner::get_products(std::string file_name)
 /*
 lista namirnica potrebnih za recept u struct recipe
 odvoji racunanje cene iz get recipes u get recipe prices npr.
+najbolja procena da ne ide po max kolicini, nego amount per cent u skladu sa amount_needed
 u racunanje cene ukljuci inventory za svako jelo posebno bez menjanja inventorija
 posle toga uz menjanje inventorija, ali kako tacno, sta je cilj
 */
