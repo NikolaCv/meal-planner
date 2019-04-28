@@ -278,11 +278,12 @@ void meal_planner::calculate_recipe_prices()
 				index++;
 			}
 			
+			//curr_price can be way more expensive than best_buy -- that needs tp be fixed
 			//if the amount_to_buy is 0, then curr_price is the best price
 			//since we will buy to product to fit needed amount without waste
 			//otherwise it's min of best_buy
 			//waste might be bigger when we choose best_buy[0], but we pay less
-			if (amount_to_buy > 0 && index > 0 && best_buy.size() > 0)
+			if (amount_to_buy > 0 && best_buy.size() > 0)
 			{
 				std::sort(best_buy.begin(), best_buy.end());
 				recipes[i].price += best_buy[0];
