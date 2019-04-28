@@ -1,5 +1,5 @@
 7
-belo meso,800,g
+pileci file,800,g
 pirinac,500,g
 sargarepa,25,g
 crni luk,100,g

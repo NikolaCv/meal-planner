@@ -7,8 +7,7 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
-#include <set>
-
+#include <ostream>
 #ifdef _WIN32
 #include <direct.h>
 
@@ -16,13 +15,13 @@
 #include <unistd.h>
 #endif
 
-bool better_value(const product& a, const product& b)
+bool better_value_product(const product& a, const product& b)
 {
 	if (a.price_per_amount > b.price_per_amount) return true;
 	return false;
 }
 
-bool smaller_r(const recipe& a, const recipe& b)
+bool better_value_recipe(const recipe& a, const recipe& b)
 {
 	if (a.price_per_meal < b.price_per_meal) return true;
 	return false;
@@ -232,7 +231,7 @@ void meal_planner::calculate_recipe_prices()
 					list.push_back(products[i]);
 			}
 
-			std::sort(list.begin(), list.end(), better_value);
+			std::sort(list.begin(), list.end(), better_value_product);
 
 			float amount_to_buy = recipes[i].items[j].amount;
 
@@ -294,6 +293,8 @@ void meal_planner::calculate_recipe_prices()
 
 		recipes[i].price_per_meal = recipes[i].price / recipes[i].num_of_meals;
 	}
+
+	std::sort(recipes.begin(), recipes.end(), better_value_recipe);
 }
 
 void meal_planner::print_products()
