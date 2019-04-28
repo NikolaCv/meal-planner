@@ -92,11 +92,6 @@ void meal_planner::get_products(std::string file_name)
 #endif
 }
 
-/*
-u racunanje cene ukljuci inventory za svako jelo posebno bez menjanja inventorija
-posle toga uz menjanje inventorija, ali kako tacno, sta je cilj
-*/
-
 //add if to print error if database is writter wrong
 
 void meal_planner::get_recipes(std::string dir_name, std::string products_file_name)
@@ -122,6 +117,8 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 	chdir(dir_name.c_str());
 #endif
 
+	//entry is going through folders in Recipes folder
+	//names of those folders are names of recipes
 	while ((entry = readdir(root)) != NULL)
 	{
 #ifdef _WIN32
@@ -142,9 +139,9 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 
 		item temp_item;
 
-		while (std::getline(file, temp_item.name, ','))			//product name
+		while (std::getline(file, temp_item.name, ','))
 		{
-			std::getline(file, data, ',');
+			std::getline(file, data, ',');						
 			temp_item.amount = std::stof(data);
 
 			std::getline(file, temp_item.unit);
@@ -201,15 +198,13 @@ void meal_planner::get_inventory_items(std::string file_name)
 #endif
 }
 
-
-
-//need new algorithm
-
 void meal_planner::calculate_recipe_prices()
 {
-	for (int i = 0; i < recipes.size(); ++i)	//for all recipes
+	//for all recipes
+	for (int i = 0; i < recipes.size(); ++i)
 	{
-		for (int j = 0; j < recipes[i].items.size(); ++j)	//for all items in that recipe
+		//for all items (products) in current recipe
+		for (int j = 0; j < recipes[i].items.size(); ++j)
 		{
 			std::vector<std::string> product_name;
 			std::stringstream stream(recipes[i].items[j].name);
@@ -238,77 +233,67 @@ void meal_planner::calculate_recipe_prices()
 			}
 
 			std::sort(list.begin(), list.end(), better_value);
+
 			float amount_to_buy = recipes[i].items[j].amount;
 
-		/*	for (int i = 0; i < list.size(); ++i)
-				std::cout << list[i].name << "\t" << list[i].amount << list[i].unit << "\t"
-				<< list[i].price << "\t" << list[i].shop << std::endl;
-				*/
-			std::vector<int> best_buy;
+			//curr_price is trying to buy without waste
+			//best_buy is if we cant buy without waste
+			//then we will buy best value
+			//in 99% we will have waste, so curr_price is kinda useless
+			//but in the future when we calculate for more recipes for several days
+			//we'll use the same algorithm and it might come in handy
+			std::vector<int> best_buy;				
 			int index = 0;
 			float curr_price = 0;
 
-			//this while loop should be optimized and written better
-			//too tired to change it now
-			//-----------------------------------------------------------------------------------------
+			//for all items that match product name
 			while (index < list.size() && amount_to_buy > 0)
 			{
 				int number = 1;
 				bool t = false;
+
 				if (list[index].amount < amount_to_buy)
 				{
 					t = true;
 					while (number * list[index].amount <= amount_to_buy)
 						number++;
+
+					best_buy.push_back(curr_price + number * list[index].price);
 					number--;
 				}
 				else
+				{
 					t = false;
-
-				if(amount_to_buy - list[index].amount > 0)
-					best_buy.push_back(curr_price + (number + 1) * list[index].price);
-				else
 					best_buy.push_back(curr_price + number * list[index].price);
+				}
 
+				//so we don't buy too much (a.k.a. waste of products)
+				//again, curr_price is trying to buy without waste for lest amount of money
+				//best_buy is all about money
 				if (t)
 				{
-					//std::cout << list[index].name << "----\t" << list[index].price << std::endl;
 					amount_to_buy -= number * list[index].amount;
 					curr_price += number * list[index].price;
-					//std::cout << curr_price << "\t" << number << "\t" << list[index].price << std::endl;
 				}
+
 				index++;
 			}
-
-		//	for (int l = 0; l < best_buy.size(); ++l)
-		//		std::cout << best_buy[l] << "omfg---" << std::endl;
-
-			if (amount_to_buy > 0 && index > 0)
-				curr_price += list[index - 1].price;
-
-			if (curr_price == 0 && list.size() > 0)
+			
+			//if the amount_to_buy is 0, then curr_price is the best price
+			//since we will buy to product to fit needed amount without waste
+			//otherwise it's min of best_buy
+			//waste might be bigger when we choose best_buy[0], but we pay less
+			if (amount_to_buy > 0 && index > 0 && best_buy.size() > 0)
 			{
-				std::sort(list.begin(), list.end(), cheapest);
-				curr_price = list[0].price;
-			}
-
-
-		//	std::cout << curr_price << std::endl << "price";
-
-			std::sort(best_buy.begin(), best_buy.end());
-
-			if (best_buy.size() > 0 && curr_price > best_buy[0])
+				std::sort(best_buy.begin(), best_buy.end());
 				recipes[i].price += best_buy[0];
+			}
 			else
 				recipes[i].price += curr_price;
-
-			//-----------------------------------------------------------------------------------------
-		//	std::cout << recipes[i].price << std::endl;
 		}
 
 		recipes[i].price_per_meal = recipes[i].price / recipes[i].num_of_meals;
 	}
-		
 }
 
 void meal_planner::print_products()

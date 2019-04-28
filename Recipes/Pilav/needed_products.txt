@@ -1,0 +1,8 @@
+7
+belo meso,800,g
+pirinac,500,g
+sargarepa,25,g
+crni luk,100,g
+vegeta,6,g
+so,10,g
+biber,5,g
