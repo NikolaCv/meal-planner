@@ -1,0 +1,4 @@
+Name	Price	Meals	Price per meal
+Pilav	828	7	118.286	
+Pasulj	1252	10	125.2	
+Musaka	584	4	146	

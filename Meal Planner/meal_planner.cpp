@@ -7,7 +7,7 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
-#include <ostream>
+
 #ifdef _WIN32
 #include <direct.h>
 
@@ -160,6 +160,12 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		chdir("..");
 #endif
 	}
+
+#ifdef _WIN32
+	_chdir("../Meal Planner");
+#elif __linux__
+	chdir("../Meal Planner");
+#endif
 }
 
 void meal_planner::get_inventory_items(std::string file_name)
@@ -308,7 +314,7 @@ void meal_planner::print_products()
 void meal_planner::print_recipes()
 {
 	std::cout << "Recipes" << std::endl << std::endl;
-
+	
 	for (int i = 0; i < recipes.size(); ++i)
 	{
 		std::cout << recipes[i].name << std::endl;
@@ -320,7 +326,22 @@ void meal_planner::print_recipes()
 
 		std::cout << "-----------------------------" << std::endl << std::endl;
 	}
-		
+
+}
+
+void meal_planner::print_recipes_to_file(std::string file_name)
+{
+	std::fstream file;
+	file.open(file_name, std::ios::out);
+
+	file <<"Name\tPrice\tMeals\tPrice per meal" << std::endl;
+
+	for (int i = 0; i < recipes.size(); ++i)
+	{
+		file << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << "\t"
+			 << recipes[i].price_per_meal << "\t" << std::endl;
+	}
+	file.close();
 }
 
 void meal_planner::print_inventory()

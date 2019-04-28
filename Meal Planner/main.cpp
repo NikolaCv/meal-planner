@@ -10,7 +10,7 @@ int main()
 	std::string recipes_dir = "Recipes";
 	std::string needed_products_file = "needed_products.txt";
 	std::string inventory_file = "Inventory/inventory.txt";
-	std::string recipes_printing_dir = "dump/recipes.txt";
+	std::string recipes_printing_dir = "../dump/recipes.txt";
 
 	meals.get_products(products_file);
 	
@@ -22,7 +22,7 @@ int main()
 	meals.calculate_recipe_prices();
 	//meals.print_inventory();
 
-	meals.print_recipes();
+	meals.print_recipes_to_file(recipes_printing_dir);
 
 	std::cout << std::endl;
 	system("pause");
