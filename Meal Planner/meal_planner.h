@@ -41,7 +41,6 @@ public:
 	void calculate_recipe_prices();
 	void print_products();
 	void print_recipes();
-	void print_recipes_to_file(std::string file_name);
 	void print_inventory();
 	void eat_cheap(int days, int people);
 	void eat_within_the_budget(int budget);
