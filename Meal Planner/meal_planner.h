@@ -16,7 +16,7 @@ struct product
 	std::string unit;
 	float price;
 	std::string shop;
-	float price_per_amount;
+	float value;		//price per amount
 };
 
 struct recipe
@@ -25,7 +25,7 @@ struct recipe
 	std::vector<item> items;
 	float price;
 	float num_of_meals;
-	float price_per_meal;
+	float value;		//price per meal
 };
 
 class meal_planner

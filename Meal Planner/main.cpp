@@ -21,7 +21,7 @@ int main()
 	//meals.print_products();
 	meals.calculate_recipe_prices();
 	//meals.print_inventory();
-
+	meals.print_recipes();
 	meals.print_recipes_to_file(recipes_printing_dir);
 
 	std::cout << std::endl;

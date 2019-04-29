@@ -15,21 +15,10 @@
 #include <unistd.h>
 #endif
 
-bool better_value_product(const product& a, const product& b)
+template <class T>
+bool increasing_by_value(T a, T b)
 {
-	if (a.price_per_amount > b.price_per_amount) return true;
-	return false;
-}
-
-bool better_value_recipe(const recipe& a, const recipe& b)
-{
-	if (a.price_per_meal < b.price_per_meal) return true;
-	return false;
-}
-
-bool cheapest(const product& a, const product& b)
-{
-	if (a.price < b.price) return true;
+	if (a.value < b.value) return true;
 	return false;
 }
 
@@ -77,7 +66,7 @@ void meal_planner::get_products(std::string file_name)
 		
 		std::getline(file, temp.shop);
 
-		temp.price_per_amount = temp.amount / temp.price;
+		temp.value = temp.price / temp.amount;
 
 		products.push_back(temp);
 	}
@@ -134,7 +123,7 @@ void meal_planner::get_recipes(std::string dir_name, std::string products_file_n
 		temp.name = entry->d_name;
 		temp.num_of_meals = std::stof(data);
 		temp.price = 0;
-		temp.price_per_meal = -1;
+		temp.value = -1;
 
 		item temp_item;
 
@@ -237,7 +226,7 @@ void meal_planner::calculate_recipe_prices()
 					list.push_back(products[i]);
 			}
 
-			std::sort(list.begin(), list.end(), better_value_product);
+			std::sort(list.begin(), list.end(), increasing_by_value<product>);
 
 			float amount_to_buy = recipes[i].items[j].amount;
 
@@ -296,10 +285,10 @@ void meal_planner::calculate_recipe_prices()
 				recipes[i].price += curr_price;
 		}
 
-		recipes[i].price_per_meal = recipes[i].price / recipes[i].num_of_meals;
+		recipes[i].value = recipes[i].price / recipes[i].num_of_meals;
 	}
 
-	std::sort(recipes.begin(), recipes.end(), better_value_recipe);
+	std::sort(recipes.begin(), recipes.end(), increasing_by_value<recipe>);
 }
 
 void meal_planner::print_products()
@@ -319,7 +308,7 @@ void meal_planner::print_recipes()
 	{
 		std::cout << recipes[i].name << std::endl;
 		std::cout << "\t" << "Price: " << recipes[i].price << "\t" << "Meals: " << recipes[i].num_of_meals << "\t"
-				  << "Price per meal: " << recipes[i].price_per_meal << "\t" << std::endl << std::endl;
+				  << "Price per meal: " << recipes[i].value << "\t" << std::endl << std::endl;
 
 		for(int j = 0; j < recipes[i].items.size(); ++j)
 			std::cout << recipes[i].items[j].name << "\t" << recipes[i].items[j].amount << recipes[i].items[j].unit << std::endl;
@@ -339,7 +328,7 @@ void meal_planner::print_recipes_to_file(std::string file_name)
 	for (int i = 0; i < recipes.size(); ++i)
 	{
 		file << recipes[i].name << "\t" << recipes[i].price << "\t" << recipes[i].num_of_meals << "\t"
-			 << recipes[i].price_per_meal << "\t" << std::endl;
+			 << recipes[i].value << "\t" << std::endl;
 	}
 	file.close();
 }
