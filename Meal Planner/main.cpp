@@ -1,6 +1,8 @@
 #include <iostream>
+#include <string>
 #include <stdlib.h>
 #include "meal_planner.h"
+#include <fstream>
 
 int main()
 {
@@ -22,7 +24,12 @@ int main()
 	meals.calculate_recipe_prices();
 	//meals.print_inventory();
 	meals.print_recipes();
-	meals.print_recipes_to_file(recipes_printing_dir);
+	//meals.print_recipes_to_file(recipes_printing_dir);
+	
+	std::ofstream file;
+	file.open(recipes_printing_dir);
+
+	file << meals;
 
 	std::cout << std::endl;
 	system("pause");

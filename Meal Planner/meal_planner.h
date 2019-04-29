@@ -42,6 +42,7 @@ public:
 	void print_products();
 	void print_recipes();
 	void print_recipes_to_file(std::string file_name);
+	friend std::ostream& operator<<(std::ostream& out, const meal_planner& data);
 	void print_inventory();
 	void eat_cheap(int days, int people);
 	void eat_within_the_budget(int budget);

@@ -7,7 +7,6 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
-
 #ifdef _WIN32
 #include <direct.h>
 
@@ -258,7 +257,7 @@ void meal_planner::calculate_recipe_prices()
 				else
 				{
 					t = false;
-					best_buy.push_back(curr_price + number * list[index].price);
+					best_buy.push_back(curr_price + list[index].price);
 				}
 
 				//so we don't buy too much (a.k.a. waste of products)
@@ -341,3 +340,14 @@ void meal_planner::print_inventory()
 		std::cout << inventory[i].name << "\t" << inventory[i].amount << "\t" << inventory[i].unit << std::endl;
 }
 
+std::ostream& operator<<(std::ostream& out, const meal_planner& data)
+{
+	out << "Name\tPrice\tMeals\tPrice per meal" << std::endl;
+
+	for (int i = 0; i < data.recipes.size(); ++i)
+	{
+		out << data.recipes[i].name << "\t" << data.recipes[i].price << "\t" << data.recipes[i].num_of_meals << "\t"
+			<< data.recipes[i].value << "\t" << std::endl;
+	}
+	return out;
+}
