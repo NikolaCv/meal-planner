@@ -116,11 +116,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="meal_planner.cpp" />
+    <ClCompile Include="products.cpp" />
+    <ClCompile Include="recipes.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dirent.h" />
-    <ClInclude Include="meal_planner.h" />
+    <ClInclude Include="products.h" />
+    <ClInclude Include="recipes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
