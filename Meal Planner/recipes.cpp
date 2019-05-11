@@ -25,6 +25,7 @@ void operator>>(std::string dir_name, recipes& r)
 	DIR *root = opendir(dir_name.c_str());
 	dirent *entry;
 
+	//reading dir twice for . and ..
 	entry = readdir(root);
 	entry = readdir(root);
 
@@ -81,12 +82,6 @@ void operator>>(std::string dir_name, recipes& r)
 		chdir("..");
 #endif
 	}
-
-#ifdef _WIN32
-	_chdir("../Meal Planner");
-#elif __linux__
-	chdir("../Meal Planner");
-#endif
 }
 
 
