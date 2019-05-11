@@ -118,11 +118,17 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="products.cpp" />
     <ClCompile Include="recipes.cpp" />
+    <ClCompile Include="structures.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dirent.h" />
+    <ClInclude Include="structures.h" />
     <ClInclude Include="products.h" />
     <ClInclude Include="recipes.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Meal Planner.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

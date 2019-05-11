@@ -7,6 +7,7 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
+#include "structures.h"
 
 #ifdef _WIN32
 #include <direct.h>
@@ -15,41 +16,12 @@
 #include <unistd.h>
 #endif
 
-template <class T>
-bool increasing_by_value(T a, T b)
-{
-	if (a.value < b.value) return true;
-	return false;
-}
-
-std::string change_unit(std::string data, float* amount_to_buy)
-{
-	if (!data.compare("kg"))
-	{
-		*amount_to_buy *= 1000;
-		data.assign("g");
-	}
-	else
-		if (!data.compare("l"))
-		{
-			*amount_to_buy *= 1000;
-			data.assign("ml");
-		}
-	return data;
-}
-
 //add if to print error if database is writter wrong
 
 //to do ------------------------------------------
-/*
-std::string operator>>(std::string dir_name, recipes& data)
-{
-#ifdef _WIN32
-	_chdir("..");
-#elif __linux__
-	chdir("..");
-#endif
 
+void operator>>(std::string dir_name, recipes& r)
+{
 	DIR *root = opendir(dir_name.c_str());
 	dirent *entry;
 
@@ -77,7 +49,7 @@ std::string operator>>(std::string dir_name, recipes& data)
 
 		recipe temp;
 
-		file.open(products_file_name, std::ios::in);
+		file.open("needed_products.txt", std::ios::in);
 		std::getline(file, data);
 
 		temp.name = entry->d_name;
@@ -99,7 +71,7 @@ std::string operator>>(std::string dir_name, recipes& data)
 			temp.items.push_back(temp_item);
 		}
 
-		data.list.push_back(temp);
+		r.list.push_back(temp);
 
 		file.close();
 
@@ -116,9 +88,11 @@ std::string operator>>(std::string dir_name, recipes& data)
 	chdir("../Meal Planner");
 #endif
 }
-*/
+
 
 //to do----------------------
+//add get_similar_products in products class that will return vector of products that contain name
+//it's the code from ++++++++ to +++++++
 
 /*
 void meal_planner::calculate_recipe_prices()
@@ -129,6 +103,10 @@ void meal_planner::calculate_recipe_prices()
 		//for all items (products) in current recipe
 		for (int j = 0; j < recipes[i].items.size(); ++j)
 		{
+
+
+			//++++++++++++++++++++++++++++++++++++++
+
 			std::vector<std::string> product_name;
 			std::stringstream stream(recipes[i].items[j].name);
 			std::string data;
@@ -157,14 +135,16 @@ void meal_planner::calculate_recipe_prices()
 
 			std::sort(list.begin(), list.end(), increasing_by_value<product>);
 
+			//++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 			float amount_to_buy = recipes[i].items[j].amount;
 
 			//curr_price is trying to buy without waste
-			//best_buy is if we cant buy without waste
-			//then we will buy best value
-			//in 99% we will have waste, so curr_price is kinda useless
-			//but in the future when we calculate for more recipes for several days
-			//we'll use the same algorithm and it might come in handy
+			//best_buy is if we can't buy without waste
+			//best_buy is for dynamic programming
+			//in 99% we will have waste
+
 			std::vector<int> best_buy;
 			int index = 0;
 			float curr_price = 0;
@@ -191,8 +171,7 @@ void meal_planner::calculate_recipe_prices()
 				}
 
 				//so we don't buy too much (a.k.a. waste of products)
-				//again, curr_price is trying to buy without waste for lest amount of money
-				//best_buy is all about money
+				//but we are counting it in best_buy if we can't buy without waste
 				if (t)
 				{
 					amount_to_buy -= number * list[index].amount;
@@ -221,7 +200,7 @@ void meal_planner::calculate_recipe_prices()
 }
 */
 
-std::ostream & operator<<(std::ostream& out, const recipes& data)
+std::ostream & operator<<(std::ostream & out, const recipes & data)
 {
 	std::cout << "Recipes" << std::endl << std::endl;
 	
@@ -239,7 +218,7 @@ std::ostream & operator<<(std::ostream& out, const recipes& data)
 	return out;
 }
 
-std::ostream& operator<(std::ostream& out, const recipes& data)
+std::ostream & operator<(std::ostream & out, const recipes & data)
 {
 	out << "Name\tPrice\tMeals\tPrice per meal" << std::endl;
 

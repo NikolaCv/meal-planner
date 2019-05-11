@@ -7,24 +7,9 @@
 #include "dirent.h"
 #include <algorithm>
 #include <sstream>
+#include "structures.h"
 
-std::string change_unit(std::string data, float* amount_to_buy)
-{
-	if (!data.compare("kg"))
-	{
-		*amount_to_buy *= 1000;
-		data.assign("g");
-	}
-	else
-		if (!data.compare("l"))
-		{
-			*amount_to_buy *= 1000;
-			data.assign("ml");
-		}
-	return data;
-}
-
-std::istream& operator>>(std::istream& in, products& data)
+std::istream & operator>>(std::istream & in, products & data)
 {
 	product temp;
 	std::string str;
@@ -49,7 +34,7 @@ std::istream& operator>>(std::istream& in, products& data)
 	return in;
 }
 
-std::istream& operator>(std::istream& in, products& data)
+std::istream & operator>(std::istream & in, products & data)
 {
 	item temp;
 	std::string str;
@@ -68,7 +53,7 @@ std::istream& operator>(std::istream& in, products& data)
 	return in;
 }
 
-std::ostream& operator<<(std::ostream& out, const products& data)
+std::ostream & operator<<(std::ostream & out, const products & data)
 {
 	out << "Products" << std::endl;
 	out << "Name" << "\t" << "Amount" << "\t" << "Unit" << "\t" << "Price" << "\t" << "Shop" << std::endl;

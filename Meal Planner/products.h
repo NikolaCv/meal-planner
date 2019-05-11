@@ -1,23 +1,7 @@
 #pragma once
 #include <iostream>
 #include <vector>
-
-struct item
-{
-	std::string name;
-	float amount;
-	std::string unit;
-};
-
-struct product
-{
-	std::string name;
-	float amount;
-	std::string unit;
-	float price;
-	std::string shop;
-	float value;		//price per amount
-};
+#include "structures.h"
 
 class products
 {
