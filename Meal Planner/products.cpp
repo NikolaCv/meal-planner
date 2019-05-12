@@ -72,3 +72,35 @@ std::ostream & operator<(std::ostream & out, const products & data)
 	return out;
 }
 
+std::vector<product> products::get_similar(std::string name)
+{
+	std::vector<std::string> product_name;
+	std::stringstream stream(name);
+	std::string data;
+
+	//breaking name of the item (string name) from current recipe on words
+	while (std::getline(stream, data, ' '))
+		product_name.push_back(data);
+
+	std::vector<product> product_list;
+
+	//adding all products that have at least all words 
+	//from needed product_name into product_list
+	for (int i = 0; i < list.size(); ++i)
+	{
+		bool t = true;
+		for (int j = 0; j < product_name.size(); ++j)
+			if (!strstr(list[i].name.c_str(), product_name[j].c_str()))
+			{
+				t = false;
+				break;
+			}
+
+		if (t)
+			product_list.push_back(list[i]);
+	}
+	
+	std::sort(product_list.begin(), product_list.end(), increasing_by_value<product>);
+	
+	return product_list;
+}

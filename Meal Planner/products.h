@@ -14,7 +14,7 @@ public:
 	friend std::istream& operator>(std::istream& in, products& data);
 	friend std::ostream& operator<<(std::ostream& out, const products& data);
 	friend std::ostream& operator<(std::ostream& out, const products& data);
-	//products get_similar(std::string product_name);
+	std::vector<product> get_similar(std::string product_name);
 	//~products();
 };
 
