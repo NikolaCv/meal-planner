@@ -31,4 +31,8 @@ struct recipe
 std::string change_unit(std::string data, float* amount_to_buy);
 
 template <class T>
-bool increasing_by_value(T a, T b);
+bool increasing_by_value(T a, T b)
+{
+	if (a.value < b.value) return true;
+	return false;
+}
