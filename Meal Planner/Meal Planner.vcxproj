@@ -122,10 +122,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dirent.h" />
-    <ClInclude Include="structures.h" />
     <ClInclude Include="products.h" />
     <ClInclude Include="recipes.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="structures.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Meal Planner.rc" />

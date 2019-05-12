@@ -8,17 +8,15 @@
 #include <algorithm>
 #include <sstream>
 #include "structures.h"
+#include "products.h"
 
 #ifdef _WIN32
 #include <direct.h>
-
 #elif __linux__
 #include <unistd.h>
 #endif
 
 //add if to print error if database is writter wrong
-
-//to do ------------------------------------------
 
 void operator>>(std::string dir_name, recipes& r)
 {
@@ -88,52 +86,22 @@ void operator>>(std::string dir_name, recipes& r)
 //to do----------------------
 //add get_similar_products in products class that will return vector of products that contain name
 //it's the code from ++++++++ to +++++++
+//recipes is now vector<> list in class recipes
+//optimal price for x meals, or days
 
-/*
-void meal_planner::calculate_recipe_prices()
+void recipes::calculate_recipe_prices(products p)
 {
 	//for all recipes
-	for (int i = 0; i < recipes.size(); ++i)
+	for (int i = 0; i < list.size(); ++i)
 	{
 		//for all items (products) in current recipe
-		for (int j = 0; j < recipes[i].items.size(); ++j)
+		for (int j = 0; j < list[i].items.size(); ++j)
 		{
 
+			std::vector<product> product_list;
+			product_list = p.get_similar(list[i].items[j].name);
 
-			//++++++++++++++++++++++++++++++++++++++
-
-			std::vector<std::string> product_name;
-			std::stringstream stream(recipes[i].items[j].name);
-			std::string data;
-
-			//breaking name of the item from current recipe on words
-			while (std::getline(stream, data, ' '))
-				product_name.push_back(data);
-
-			std::vector<product> list;
-
-			//adding all products that have at least all words 
-			//from needed product_name into list
-			for (int i = 0; i < products.size(); ++i)
-			{
-				bool t = true;
-				for (int j = 0; j < product_name.size(); ++j)
-					if (!strstr(products[i].name.c_str(), product_name[j].c_str()))
-					{
-						t = false;
-						break;
-					}
-
-				if (t)
-					list.push_back(products[i]);
-			}
-
-			std::sort(list.begin(), list.end(), increasing_by_value<product>);
-
-			//++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-			float amount_to_buy = recipes[i].items[j].amount;
+			float amount_to_buy = list[i].items[j].amount;
 
 			//curr_price is trying to buy without waste
 			//best_buy is if we can't buy without waste
@@ -145,55 +113,55 @@ void meal_planner::calculate_recipe_prices()
 			float curr_price = 0;
 
 			//for all items that match product name
-			while (index < list.size() && amount_to_buy > 0)
+			while (index < product_list.size() && amount_to_buy > 0)
 			{
 				int number = 1;
 				bool t = false;
 
-				if (list[index].amount < amount_to_buy)
+				if (product_list[index].amount < amount_to_buy)
 				{
 					t = true;
-					while (number * list[index].amount <= amount_to_buy)
+					while (number * product_list[index].amount <= amount_to_buy)
 						number++;
 
-					best_buy.push_back(curr_price + number * list[index].price);
+					best_buy.push_back(curr_price + number * product_list[index].price);
 					number--;
 				}
 				else
 				{
 					t = false;
-					best_buy.push_back(curr_price + list[index].price);
+					best_buy.push_back(curr_price + product_list[index].price);
 				}
 
 				//so we don't buy too much (a.k.a. waste of products)
 				//but we are counting it in best_buy if we can't buy without waste
 				if (t)
 				{
-					amount_to_buy -= number * list[index].amount;
-					curr_price += number * list[index].price;
+					amount_to_buy -= number * product_list[index].amount;
+					curr_price += number * product_list[index].price;
 				}
 
 				index++;
 			}
 
 			//if we can't buy the exact amount, we'll add the best value to curr_price
-			if (amount_to_buy > 0 && list.size() > 0)
-				curr_price += list[0].price;
+			if (amount_to_buy > 0 && product_list.size() > 0)
+				curr_price += product_list[0].price;
 
 			std::sort(best_buy.begin(), best_buy.end());
 
 			if (best_buy.size() > 0 && curr_price > best_buy[0])
-				recipes[i].price += best_buy[0];
+				list[i].price += best_buy[0];
 			else
-				recipes[i].price += curr_price;
+				list[i].price += curr_price;
 		}
 
-		recipes[i].value = recipes[i].price / recipes[i].num_of_meals;
+		list[i].value = list[i].price / list[i].num_of_meals;
 	}
 
-	std::sort(recipes.begin(), recipes.end(), increasing_by_value<recipe>);
+	std::sort(list.begin(), list.end(), increasing_by_value<recipe>);
 }
-*/
+
 
 std::ostream & operator<<(std::ostream & out, const recipes & data)
 {

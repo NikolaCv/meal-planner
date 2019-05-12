@@ -30,9 +30,9 @@ int main()
 
 	recipes_dir >> recipe_list;
 
+	recipe_list.calculate_recipe_prices(product_list);
+
 	std::cout << recipe_list;
-
-
 
 	system("pause");
 	return 0;
